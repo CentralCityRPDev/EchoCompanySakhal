@@ -225,32 +225,32 @@
                 },
                 {
                     "Item": "SalineBagIV",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 100,
+                    "MaxQty": 100,
                     "Attachments": []
                 },
                 {
                     "Item": "LeatherSewingKit",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 100,
+                    "MaxQty": 100,
                     "Attachments": []
                 },
                 {
                     "Item": "SewingKit",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 100,
+                    "MaxQty": 100,
                     "Attachments": []
                 },
                 {
                     "Item": "ElectronicRepairKit",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 100,
+                    "MaxQty": 100,
                     "Attachments": []
                 },
                 {
                     "Item": "WeaponCleaningKit",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 100,
+                    "MaxQty": 100,
                     "Attachments": []
                 },
                 {
@@ -263,8 +263,8 @@
                 },
                 {
                     "Item": "MetalPlate",
-                    "MinQty": 1,
-                    "MaxQty": 1,
+                    "MinQty": 3,
+                    "MaxQty": 4,
                     "Attachments": []
                 },
                 {
