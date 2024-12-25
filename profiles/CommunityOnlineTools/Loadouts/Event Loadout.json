@@ -1,0 +1,152 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                0.0380859375,
+                -0.8037261962890625,
+                -0.4638671875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                0.048828125,
+                -0.8716888427734375,
+                -0.5615234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaEJacket_Winter",
+            "m_LocalPosition": [
+                -0.0224609375,
+                -0.337188720703125,
+                0.1884765625
+            ],
+            "m_LocalRotation": [
+                29.20254135131836,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 130.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaPants_Winter",
+            "m_LocalPosition": [
+                -0.001953125,
+                -0.5165863037109375,
+                -0.0185546875
+            ],
+            "m_LocalRotation": [
+                31.432815551757814,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 130.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BallisticHelmet_Winter",
+            "m_LocalPosition": [
+                0.009765625,
+                -0.17919921875,
+                0.419921875
+            ],
+            "m_LocalRotation": [
+                -154.8679962158203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 75.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CoyoteBag_Winter",
+            "m_LocalPosition": [
+                0.0078125,
+                -0.74066162109375,
+                -0.236328125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 190.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PlateCarrierVest_Winter",
+            "m_LocalPosition": [
+                -0.07421875,
+                0.0,
+                0.669921875
+            ],
+            "m_LocalRotation": [
+                61.32753372192383,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 225.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

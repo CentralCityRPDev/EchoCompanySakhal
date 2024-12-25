@@ -1,0 +1,48 @@
+{
+    "name": "Folkloras klubs",
+    "shortname": "FK",
+    "level": 0,
+    "lastActivity": 1729040967,
+    "creationDate": 1729040967,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 719148607,
+            "name": "Baby Boy",
+            "icon": "",
+            "position": [
+                13992.3828125,
+                5.621773719787598,
+                8084.044921875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199498318418",
+            "permissionGroup": 9,
+            "online": 1,
+            "health": 65.22737121582031,
+            "tempMember": 0
+        }
+    ],
+    "markers": []
+}

@@ -1,0 +1,1342 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "VSS",
+            "m_LocalPosition": [
+                2285.49267578125,
+                6.43263053894043,
+                3707.59228515625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 246.86566162109376,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "PSO11Optic",
+                    "m_Data": {
+                        "m_Health": 43.4530029296875,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "CZ75",
+            "m_LocalPosition": [
+                2155.17626953125,
+                16.62628746032715,
+                3709.502197265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 110.63555145263672,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MakarovIJ70",
+            "m_LocalPosition": [
+                2240.822509765625,
+                6.993875026702881,
+                3667.9794921875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 19.57023811340332,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AKS74U",
+            "m_LocalPosition": [
+                2198.641357421875,
+                6.6341423988342289,
+                3643.096923828125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 229.2530975341797,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "AK_FoldingBttstck",
+                    "m_Data": {
+                        "m_Health": 96.91068267822266,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Vikhr",
+            "m_LocalPosition": [
+                2293.00390625,
+                15.561121940612793,
+                3692.064208984375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 228.3525390625,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Vikhr",
+            "m_LocalPosition": [
+                2256.187744140625,
+                6.625330924987793,
+                3762.8671875
+            ],
+            "m_LocalRotation": [
+                -139.45016479492188,
+                90.0,
+                139.45016479492188
+            ],
+            "m_Data": {
+                "m_Health": 45.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CZ75",
+            "m_LocalPosition": [
+                2152.55810546875,
+                16.79354476928711,
+                3706.80517578125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 160.79896545410157,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Vikhr",
+            "m_LocalPosition": [
+                2305.44677734375,
+                4.610825538635254,
+                3720.71875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 183.76303100585938,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_VSS_10Rnd",
+                    "m_Data": {
+                        "m_Health": 18.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "M79",
+            "m_LocalPosition": [
+                2242.842529296875,
+                6.595554351806641,
+                3675.40234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 95.71603393554688,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M79DummyOptics",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Ammo_762x54Tracer",
+            "m_LocalPosition": [
+                2217.54638671875,
+                7.2551398277282719,
+                3661.924560546875
+            ],
+            "m_LocalRotation": [
+                129.95025634765626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 18.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DryBag_Orange",
+            "m_LocalPosition": [
+                2265.911376953125,
+                6.732958793640137,
+                3710.33935546875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.25991821289063,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CanOpener",
+                    "m_Data": {
+                        "m_Health": 13.58590316772461,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "NavyUniformJacket",
+            "m_LocalPosition": [
+                2169.65283203125,
+                6.596076011657715,
+                3640.522705078125
+            ],
+            "m_LocalRotation": [
+                -174.0067596435547,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 39.235260009765628,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "OMNOGloves_Brown",
+            "m_LocalPosition": [
+                2267.349609375,
+                7.632876396179199,
+                3743.1708984375
+            ],
+            "m_LocalRotation": [
+                180.0,
+                0.000003675473180919653,
+                179.99998474121095
+            ],
+            "m_Data": {
+                "m_Health": 162.28701782226563,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AKM_Drum75Rnd",
+            "m_LocalPosition": [
+                2305.075439453125,
+                4.66428804397583,
+                3722.443603515625
+            ],
+            "m_LocalRotation": [
+                -18.388925552368165,
+                0.0,
+                90.0
+            ],
+            "m_Data": {
+                "m_Health": 19.24680519104004,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BomberJacket_Blue",
+            "m_LocalPosition": [
+                2231.818115234375,
+                7.572218894958496,
+                3709.063232421875
+            ],
+            "m_LocalRotation": [
+                -149.17689514160157,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 124.85013580322266,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TTSKOPants",
+            "m_LocalPosition": [
+                2274.797119140625,
+                8.00120735168457,
+                3683.208251953125
+            ],
+            "m_LocalRotation": [
+                82.10333251953125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 124.25450897216797,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalMask",
+            "m_LocalPosition": [
+                2193.457763671875,
+                6.513907432556152,
+                3659.69873046875
+            ],
+            "m_LocalRotation": [
+                -10.07476806640625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 18.311992645263673,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NavyUniformPants",
+            "m_LocalPosition": [
+                2189.077880859375,
+                6.5925750732421879,
+                3640.892822265625
+            ],
+            "m_LocalRotation": [
+                28.565338134765626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 118.75276947021485,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_762x39",
+            "m_LocalPosition": [
+                2169.45361328125,
+                37.28908157348633,
+                3724.853759765625
+            ],
+            "m_LocalRotation": [
+                -36.51966857910156,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 34.54155349731445,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_762x54Tracer",
+            "m_LocalPosition": [
+                2318.489501953125,
+                21.857187271118165,
+                3732.190185546875
+            ],
+            "m_LocalRotation": [
+                -124.58875274658203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 98.81492614746094,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NurseDress_White",
+            "m_LocalPosition": [
+                2190.3056640625,
+                6.487857341766357,
+                3655.834228515625
+            ],
+            "m_LocalRotation": [
+                -96.48761749267578,
+                0.0,
+                -90.0
+            ],
+            "m_Data": {
+                "m_Health": 76.04655456542969,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MedicalScrubsHat_White",
+            "m_LocalPosition": [
+                2262.57421875,
+                6.482519626617432,
+                3690.008544921875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 4.5,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_545x39Tracer",
+            "m_LocalPosition": [
+                2212.2216796875,
+                6.5990705490112309,
+                3649.773681640625
+            ],
+            "m_LocalRotation": [
+                60.54750061035156,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 28.88066864013672,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BallisticHelmet_Navy",
+            "m_LocalPosition": [
+                2291.1689453125,
+                16.261064529418947,
+                3687.906005859375
+            ],
+            "m_LocalRotation": [
+                -99.78086853027344,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 57.73006057739258,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SkiGoggles_WhiteClear",
+            "m_LocalPosition": [
+                2265.002197265625,
+                6.57935905456543,
+                3742.89453125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 61.35078811645508,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DryBag_Blue",
+            "m_LocalPosition": [
+                2285.3154296875,
+                6.694437503814697,
+                3670.22412109375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 75.0182876586914,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_762x39",
+            "m_LocalPosition": [
+                2200.326171875,
+                7.604074001312256,
+                3677.5283203125
+            ],
+            "m_LocalRotation": [
+                -54.83443069458008,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 67.23895263671875,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MedicalScrubsPants_Green",
+            "m_LocalPosition": [
+                2269.08056640625,
+                7.993288993835449,
+                3681.895751953125
+            ],
+            "m_LocalRotation": [
+                -165.7887420654297,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 31.324142456054689,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CombatBoots_Brown",
+            "m_LocalPosition": [
+                2217.086181640625,
+                7.214812755584717,
+                3695.483154296875
+            ],
+            "m_LocalRotation": [
+                -81.55399322509766,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 154.2595672607422,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_9x39AP",
+            "m_LocalPosition": [
+                2264.045654296875,
+                6.564040660858154,
+                3660.59716796875
+            ],
+            "m_LocalRotation": [
+                164.85487365722657,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 98.3935775756836,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DuffelBagSmall_Medical",
+            "m_LocalPosition": [
+                2240.335693359375,
+                6.662164211273193,
+                3718.06591796875
+            ],
+            "m_LocalRotation": [
+                19.918813705444337,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 126.44354248046875,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "BandageDressing",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TetracyclineAntibiotics",
+                    "m_Data": {
+                        "m_Health": 25.474437713623048,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TTSKOPants",
+            "m_LocalPosition": [
+                2255.139404296875,
+                6.82734489440918,
+                3722.41943359375
+            ],
+            "m_LocalRotation": [
+                -23.9838809967041,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 140.68038940429688,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HipPack_Medical",
+            "m_LocalPosition": [
+                2259.19677734375,
+                7.175502777099609,
+                3687.46435546875
+            ],
+            "m_LocalRotation": [
+                -68.1282958984375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 49.70522689819336,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "BandageDressing",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ParamedicPants_Blue",
+            "m_LocalPosition": [
+                2242.480224609375,
+                6.445919513702393,
+                3745.032470703125
+            ],
+            "m_LocalRotation": [
+                -7.800529956817627,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 27.000001907348634,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CombatBoots_Brown",
+            "m_LocalPosition": [
+                2283.5068359375,
+                7.066265106201172,
+                3718.117919921875
+            ],
+            "m_LocalRotation": [
+                -55.03219223022461,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 68.89163208007813,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DuffelBagSmall_Medical",
+            "m_LocalPosition": [
+                2252.495849609375,
+                6.581709384918213,
+                3671.542724609375
+            ],
+            "m_LocalRotation": [
+                -160.570068359375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 110.54066467285156,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M65Jacket_Tan",
+            "m_LocalPosition": [
+                2221.404052734375,
+                6.4208269119262699,
+                3665.470947265625
+            ],
+            "m_LocalRotation": [
+                -161.9104461669922,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 144.9359893798828,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalMask",
+            "m_LocalPosition": [
+                2279.3994140625,
+                8.023348808288575,
+                3666.451416015625
+            ],
+            "m_LocalRotation": [
+                -125.81925964355469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 21.208698272705079,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TTSKOPants",
+            "m_LocalPosition": [
+                2256.173828125,
+                6.7705559730529789,
+                3663.184814453125
+            ],
+            "m_LocalRotation": [
+                -23.775135040283204,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 89.89689636230469,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DownJacket_Blue",
+            "m_LocalPosition": [
+                2202.649658203125,
+                7.696225643157959,
+                3672.9287109375
+            ],
+            "m_LocalRotation": [
+                173.8529510498047,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 74.90351867675781,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MilitaryBoots_Black",
+            "m_LocalPosition": [
+                2259.603271484375,
+                6.5904974937438969,
+                3763.76611328125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 109.7767562866211,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HuntingKnife",
+                    "m_Data": {
+                        "m_Health": 23.81954002380371,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                2268.807373046875,
+                16.399948120117189,
+                3760.036865234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 76.7802734375,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DryBag_Blue",
+            "m_LocalPosition": [
+                2265.25830078125,
+                6.734546661376953,
+                3713.093505859375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.86484909057617,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                2313.7314453125,
+                4.567816257476807,
+                3723.82373046875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 18.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MilitaryBoots_Beige",
+            "m_LocalPosition": [
+                2271.906494140625,
+                7.855473518371582,
+                3665.4892578125
+            ],
+            "m_LocalRotation": [
+                166.37103271484376,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 36.57461166381836,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NavyUniformJacket",
+            "m_LocalPosition": [
+                2183.06689453125,
+                6.585483074188232,
+                3652.446044921875
+            ],
+            "m_LocalRotation": [
+                164.7010498046875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 43.50867462158203,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_White",
+            "m_LocalPosition": [
+                2236.586181640625,
+                6.4935302734375,
+                3741.909423828125
+            ],
+            "m_LocalRotation": [
+                -132.53761291503907,
+                0.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 33.406333923339847,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SmershVest",
+            "m_LocalPosition": [
+                2308.0439453125,
+                5.515988826751709,
+                3725.272705078125
+            ],
+            "m_LocalRotation": [
+                -91.32113647460938,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.20523834228516,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AssaultBag_Ttsko",
+            "m_LocalPosition": [
+                2241.3525390625,
+                6.725957870483398,
+                3658.67578125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 139.77488708496095,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Shemagh_Brown",
+            "m_LocalPosition": [
+                2233.21923828125,
+                7.029179573059082,
+                3663.497314453125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 13.500000953674317,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_Green",
+            "m_LocalPosition": [
+                2263.318603515625,
+                7.179651737213135,
+                3691.07958984375
+            ],
+            "m_LocalRotation": [
+                2.186333179473877,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 34.90257263183594,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                2321.03076171875,
+                5.137784481048584,
+                3726.907470703125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 25.80040168762207,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Saiga_8Rnd",
+            "m_LocalPosition": [
+                2313.50244140625,
+                4.569470405578613,
+                3718.992919921875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 91.56391906738281,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_White",
+            "m_LocalPosition": [
+                2189.32470703125,
+                6.497406959533691,
+                3659.516357421875
+            ],
+            "m_LocalRotation": [
+                -26.29108238220215,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 9.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "UKAssVest_Khaki",
+            "m_LocalPosition": [
+                2256.42529296875,
+                6.588400840759277,
+                3760.660888671875
+            ],
+            "m_LocalRotation": [
+                146.52911376953126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 117.19442749023438,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BallisticHelmet_BDU",
+            "m_LocalPosition": [
+                2236.433349609375,
+                11.730643272399903,
+                3690.71826171875
+            ],
+            "m_LocalRotation": [
+                -152.89039611816407,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 52.575069427490237,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                2245.5634765625,
+                6.620931148529053,
+                3660.20751953125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 68.40251159667969,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TTSKOBoots",
+            "m_LocalPosition": [
+                2274.36083984375,
+                16.256895065307618,
+                3761.094482421875
+            ],
+            "m_LocalRotation": [
+                162.2070770263672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 44.4974479675293,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DuffelBagSmall_Camo",
+            "m_LocalPosition": [
+                2293.283447265625,
+                15.521429061889649,
+                3686.01806640625
+            ],
+            "m_LocalRotation": [
+                106.58160400390625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 133.06666564941407,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

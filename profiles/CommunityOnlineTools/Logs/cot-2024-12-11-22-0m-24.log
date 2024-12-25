@@ -1,0 +1,19 @@
+[COT 2024-12-12 0h:16:49] 76561199282403539: Activated Community Online Tools [guid=ns259EoeT6sGy1yfIUvTfwxMqlfjSjm8ux0lgBia58w=]
+[COT 2024-12-12 0h:18:47] 76561199282403539: ESP: Viewing ESP
+[COT 2024-12-12 0h:19:5s] 76561199282403539: Created Deletion Backup '2024-12-12_0h-19-5s'
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=0 target=SeaChest:5639 position=<4598.875000, 37.393093, 4113.933105> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=1 target=SeaChest:5601 position=<4600.836914, 37.355900, 4120.454590> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=2 target=SeaChest:5454 position=<4603.462402, 37.393093, 4112.634277> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=3 target=SeaChest:5100 position=<4605.585449, 37.364681, 4119.021973> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=4 target=BarrelHoles_Red:5670 position=<4596.107910, 37.382732, 4118.268555> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=5 target=Fence:5082 position=<4600.300293, 37.429214, 4111.458984> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=6 target=Fence:5807 position=<4606.296387, 37.398331, 4119.154297> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=7 target=Fence:5708 position=<4598.290527, 41.677795, 4117.805176> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=8 target=Fence:5558 position=<4597.995605, 37.429214, 4113.939941> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=9 target=Fence:5533 position=<4606.090820, 37.429214, 4115.306152> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=10 target=Watchtower:5582 position=<4596.408691, 37.445004, 4118.390137> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=11 target=Fence:5675 position=<4603.882813, 37.429214, 4112.173340> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=12 target=Fence:5370 position=<4603.872070, 37.356628, 4121.710449> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP index=13 target=Fence:5398 position=<4600.431152, 37.386765, 4121.011719> action=delete
+[COT 2024-12-12 0h:19:5s] 76561199282403539: ESP action=delete_all count=14 attempted=14
+[COT 2024-12-12 0h:20:44] 76561199282403539: ESP: Clearing ESP

@@ -1,0 +1,30 @@
+************************** 2024-10-21T09:00:22+00:00 **************************
+2024-10-21T09:00:22+00:00 | [INFO	] GameLabs v1.937 start for server d8a76073-d8f6-4065-90d5-ed76f0e73f86
+2024-10-21T09:00:28+00:00 | [INFO	] Server up (GameLabs v1.937)
+2024-10-21T09:00:28+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-10-21T09:00:28+00:00 | [INFO	] Experimental speed check is enabled
+2024-10-21T10:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-10-21T10:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-10-21T10:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2024-10-21T11:00:34+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-10-21T11:00:34+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-10-21T11:00:35+00:00 | [WARN	] RegisterAsync re-authorized
+2024-10-21T11:04:10+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-10-21T11:05:36+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-10-21T11:07:57+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-10-21T11:09:48+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<5af7c030>> fired for already disconnected player [steam64=76561198058348400]
+2024-10-21T11:10:33+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-10-21T11:10:33+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-10-21T11:10:33+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198127477618, distance=30.7119u, unitsPerSecond=12.2848 [threshold=8, inVehicle=0, triggers=1])
+2024-10-21T11:10:33+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-10-21T11:10:33+00:00 | [WARN	] ****************************************
+2024-10-21T11:10:39+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-10-21T11:10:44+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-10-21T11:12:14+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-10-21T12:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-10-21T12:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-10-21T12:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2024-10-21T12:01:58+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<6d0f0010>> fired for already disconnected player [steam64=76561198433167668]
+2024-10-21T12:39:36+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<6683b020>> fired for already disconnected player [steam64=76561198127477618]
+2024-10-21T13:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-10-21T13:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

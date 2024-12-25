@@ -1,0 +1,478 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Vikhr",
+            "m_LocalPosition": [
+                2476.794677734375,
+                16.428558349609376,
+                3569.4296875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 164.33596801757813,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HighCapacityVest_Olive",
+            "m_LocalPosition": [
+                2494.9462890625,
+                14.996024131774903,
+                3641.9521484375
+            ],
+            "m_LocalRotation": [
+                -81.78471374511719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 41.647762298583987,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_45ACP",
+            "m_LocalPosition": [
+                2406.56298828125,
+                11.933097839355469,
+                3520.65234375
+            ],
+            "m_LocalRotation": [
+                0.32958751916885378,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 97.64363861083985,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_380",
+            "m_LocalPosition": [
+                2485.6806640625,
+                17.43596839904785,
+                3583.579833984375
+            ],
+            "m_LocalRotation": [
+                176.19309997558595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 27.63582992553711,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_PP19_64Rnd",
+            "m_LocalPosition": [
+                2408.758056640625,
+                11.999505043029786,
+                3501.58203125
+            ],
+            "m_LocalRotation": [
+                -22.95938491821289,
+                0.0,
+                90.0
+            ],
+            "m_Data": {
+                "m_Health": 97.19990539550781,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GhillieTop_Winter",
+            "m_LocalPosition": [
+                2404.307861328125,
+                12.099614143371582,
+                3520.627197265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 23.882671356201173,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "UKAssVest_Winter",
+            "m_LocalPosition": [
+                2435.753662109375,
+                9.3206787109375,
+                3474.921630859375
+            ],
+            "m_LocalRotation": [
+                154.24176025390626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 101.78050231933594,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MountainBag_Blue",
+            "m_LocalPosition": [
+                2427.255126953125,
+                12.047306060791016,
+                3512.739501953125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 28.80000114440918,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_545x39",
+            "m_LocalPosition": [
+                2408.3671875,
+                11.902527809143067,
+                3504.9375
+            ],
+            "m_LocalRotation": [
+                -5.811944484710693,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 38.520687103271487,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WorkingGloves_Beige",
+            "m_LocalPosition": [
+                2428.042236328125,
+                12.817336082458496,
+                3510.429931640625
+            ],
+            "m_LocalRotation": [
+                -104.9281234741211,
+                0.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 140.13467407226563,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NavyUniformPants",
+            "m_LocalPosition": [
+                2417.1767578125,
+                11.9249849319458,
+                3493.52392578125
+            ],
+            "m_LocalRotation": [
+                -132.3563232421875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 23.400001525878908,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Bandana_Greenpattern",
+            "m_LocalPosition": [
+                2382.693603515625,
+                12.937865257263184,
+                3508.388916015625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 9.23172378540039,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Saiga_5Rnd",
+            "m_LocalPosition": [
+                2385.45703125,
+                14.379667282104493,
+                3479.56298828125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 18.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_762x54Tracer",
+            "m_LocalPosition": [
+                2447.807861328125,
+                15.800151824951172,
+                3575.21533203125
+            ],
+            "m_LocalRotation": [
+                -79.2687759399414,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.77076721191406,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Saiga_8Rnd",
+            "m_LocalPosition": [
+                2493.697509765625,
+                18.841278076171876,
+                3637.945068359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 76.73511505126953,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MilitaryBelt",
+            "m_LocalPosition": [
+                2414.720458984375,
+                12.265002250671387,
+                3518.66259765625
+            ],
+            "m_LocalRotation": [
+                -175.31417846679688,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 19.80000114440918,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "JumpsuitPants_Blue",
+            "m_LocalPosition": [
+                2382.63134765625,
+                12.93913745880127,
+                3514.91015625
+            ],
+            "m_LocalRotation": [
+                -128.17042541503907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 120.98725891113281,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_VSS_10Rnd",
+            "m_LocalPosition": [
+                2483.954345703125,
+                17.18510627746582,
+                3580.706298828125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 64.46305847167969,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DryBag_Red",
+            "m_LocalPosition": [
+                2418.5888671875,
+                12.064669609069825,
+                3491.445556640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 133.95352172851563,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaEJacket_Autumn",
+            "m_LocalPosition": [
+                2385.826171875,
+                11.610749244689942,
+                3479.433837890625
+            ],
+            "m_LocalRotation": [
+                -35.47593688964844,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 78.991943359375,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Ammo_762x54",
+                    "m_Data": {
+                        "m_Health": 54.83732223510742,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Mag_Saiga_Drum20Rnd",
+            "m_LocalPosition": [
+                2425.104248046875,
+                9.97276782989502,
+                3473.478271484375
+            ],
+            "m_LocalRotation": [
+                13.620742797851563,
+                0.0,
+                -90.0
+            ],
+            "m_Data": {
+                "m_Health": 75.88660430908203,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CargoPants_Grey",
+            "m_LocalPosition": [
+                2396.1982421875,
+                11.972554206848145,
+                3511.710693359375
+            ],
+            "m_LocalRotation": [
+                2.7247154712677,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 82.96392822265625,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

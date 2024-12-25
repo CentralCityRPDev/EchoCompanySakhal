@@ -1,0 +1,152 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "HighCapacityVest_Black",
+            "m_LocalPosition": [
+                2465.819580078125,
+                -6.439468860626221,
+                4197.779296875
+            ],
+            "m_LocalRotation": [
+                103.34054565429688,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 27.33962059020996,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Saiga_5Rnd",
+            "m_LocalPosition": [
+                2520.570068359375,
+                0.45891010761260989,
+                4255.7421875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.08723068237305,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Defender_Vest_Green",
+            "m_LocalPosition": [
+                2503.128173828125,
+                15.534821510314942,
+                4221.029296875
+            ],
+            "m_LocalRotation": [
+                57.339385986328128,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 36.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_9x39",
+            "m_LocalPosition": [
+                2494.1845703125,
+                10.314882278442383,
+                4234.9326171875
+            ],
+            "m_LocalRotation": [
+                42.14482116699219,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 97.70634460449219,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Shemagh_Brown",
+            "m_LocalPosition": [
+                2507.441650390625,
+                5.058659553527832,
+                4224.3974609375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 51.71974182128906,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "UKAssVest_Winter",
+            "m_LocalPosition": [
+                2498.48291015625,
+                7.045158386230469,
+                4231.07958984375
+            ],
+            "m_LocalRotation": [
+                41.98004913330078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 114.83677673339844,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_Smoke_White",
+            "m_LocalPosition": [
+                2450.947998046875,
+                10.542149543762207,
+                4169.49755859375
+            ],
+            "m_LocalRotation": [
+                -53.153465270996097,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 11.996987342834473,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

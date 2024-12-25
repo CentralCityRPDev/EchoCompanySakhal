@@ -1,0 +1,3353 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                12366.3779296875,
+                6.282722473144531,
+                2283.020751953125
+            ],
+            "m_LocalRotation": [
+                -0.21397501230239869,
+                -0.2948903441429138,
+                -0.2631828188896179
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                2111.4365234375,
+                4.675512790679932,
+                3546.179931640625
+            ],
+            "m_LocalRotation": [
+                -0.014608433470129967,
+                0.5167809724807739,
+                0.9468641877174377
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                12366.427734375,
+                6.4415483474731449,
+                2278.066650390625
+            ],
+            "m_LocalRotation": [
+                -1.995561122894287,
+                -4.318663597106934,
+                0.06382544338703156
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "HeadlightH7",
+            "m_LocalPosition": [
+                12366.865234375,
+                7.202096462249756,
+                2285.044189453125
+            ],
+            "m_LocalRotation": [
+                138.0375213623047,
+                -89.60286712646485,
+                -138.25216674804688
+            ],
+            "m_Data": {
+                "m_Health": 10.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                2007.3406982421876,
+                6.304715633392334,
+                3582.08349609375
+            ],
+            "m_LocalRotation": [
+                4.940028190612793,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                2099.774169921875,
+                5.483855247497559,
+                3550.15771484375
+            ],
+            "m_LocalRotation": [
+                -54.98566436767578,
+                2.8812646865844728,
+                2.016873598098755
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -2
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_UrsusArctos",
+            "m_LocalPosition": [
+                2106.34521484375,
+                5.064513206481934,
+                3554.01953125
+            ],
+            "m_LocalRotation": [
+                -168.49794006347657,
+                -1.3672481775283814,
+                -3.2363834381103517
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -2
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_VulpesVulpes",
+            "m_LocalPosition": [
+                2028.4693603515626,
+                14.714372634887696,
+                3652.8017578125
+            ],
+            "m_LocalRotation": [
+                27.37860107421875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_UrsusArctos",
+            "m_LocalPosition": [
+                12471.2099609375,
+                7.319983005523682,
+                2315.947998046875
+            ],
+            "m_LocalRotation": [
+                -168.4979248046875,
+                -7.816538388771832e-11,
+                -7.816541164329394e-11
+            ],
+            "m_Data": {
+                "m_Health": 800.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_UrsusArctos",
+            "m_LocalPosition": [
+                12453.14453125,
+                7.209985733032227,
+                2274.738037109375
+            ],
+            "m_LocalRotation": [
+                -168.4979248046875,
+                -8.159473013112106e-17,
+                4.269246645460218e-18
+            ],
+            "m_Data": {
+                "m_Health": 800.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                12464.638671875,
+                7.739325046539307,
+                2312.086181640625
+            ],
+            "m_LocalRotation": [
+                -54.98565673828125,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                12446.5732421875,
+                7.629327774047852,
+                2270.876220703125
+            ],
+            "m_LocalRotation": [
+                -54.98565673828125,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                12476.5849609375,
+                16.982872009277345,
+                2237.0166015625
+            ],
+            "m_LocalRotation": [
+                4.926846027374268,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_UrsusArctos",
+            "m_LocalPosition": [
+                12531.18359375,
+                12.26657485961914,
+                2230.222900390625
+            ],
+            "m_LocalRotation": [
+                -168.4979248046875,
+                -7.816520347647682e-11,
+                -7.816545327665736e-11
+            ],
+            "m_Data": {
+                "m_Health": 800.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                12459.0615234375,
+                12.91672134399414,
+                2285.820068359375
+            ],
+            "m_LocalRotation": [
+                4.926846027374268,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                12524.6123046875,
+                12.685916900634766,
+                2226.361083984375
+            ],
+            "m_LocalRotation": [
+                -54.98565673828125,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_UrsusArctos",
+            "m_LocalPosition": [
+                12548.70703125,
+                16.332727432250978,
+                2181.41943359375
+            ],
+            "m_LocalRotation": [
+                -168.4979248046875,
+                -1.0422034069090813e-10,
+                -1.0422013252409102e-10
+            ],
+            "m_Data": {
+                "m_Health": 800.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                12465.453125,
+                19.47457504272461,
+                2220.725830078125
+            ],
+            "m_LocalRotation": [
+                4.926846027374268,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                12542.1357421875,
+                16.7520694732666,
+                2177.5576171875
+            ],
+            "m_LocalRotation": [
+                -54.98565673828125,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                12465.4521484375,
+                19.474327087402345,
+                2220.7265625
+            ],
+            "m_LocalRotation": [
+                4.926846027374268,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_VulpesVulpes",
+            "m_LocalPosition": [
+                12439.64453125,
+                24.40009307861328,
+                2280.8271484375
+            ],
+            "m_LocalRotation": [
+                67.75894165039063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_OvisAries",
+            "m_LocalPosition": [
+                12465.453125,
+                19.474567413330079,
+                2220.72607421875
+            ],
+            "m_LocalRotation": [
+                4.926846027374268,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 280.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_VulpesVulpes",
+            "m_LocalPosition": [
+                12450.7802734375,
+                21.90864372253418,
+                2297.1201171875
+            ],
+            "m_LocalRotation": [
+                67.75895690917969,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_VulpesVulpes",
+            "m_LocalPosition": [
+                12439.6484375,
+                24.40033721923828,
+                2280.82958984375
+            ],
+            "m_LocalRotation": [
+                67.75895690917969,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_VulpesVulpes",
+            "m_LocalPosition": [
+                12439.64453125,
+                24.400341033935548,
+                2280.82763671875
+            ],
+            "m_LocalRotation": [
+                67.75894165039063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                12476.294921875,
+                8.1881685256958,
+                2308.11083984375
+            ],
+            "m_LocalRotation": [
+                0.17264142632484437,
+                -1.9156041145324708,
+                -5.992452621459961
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                12536.294921875,
+                16.808053970336915,
+                2222.386474609375
+            ],
+            "m_LocalRotation": [
+                -0.07918673753738404,
+                -6.452889442443848,
+                -7.363527297973633
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                12458.23046875,
+                8.766251564025879,
+                2266.89990234375
+            ],
+            "m_LocalRotation": [
+                0.12766899168491364,
+                -2.1170413494110109,
+                -3.4178075790405275
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Truck_01_Covered_Blue",
+            "m_LocalPosition": [
+                12545.4033203125,
+                20.495975494384767,
+                2196.981689453125
+            ],
+            "m_LocalRotation": [
+                -111.61886596679688,
+                -3.850041627883911,
+                96.98743438720703
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_1_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_2_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Hood_Blue",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Truck_01_Covered_Blue",
+            "m_LocalPosition": [
+                12535.90625,
+                16.913740158081056,
+                2212.667236328125
+            ],
+            "m_LocalRotation": [
+                0.006057097110897303,
+                0.036538269370794299,
+                -10.703696250915528
+            ],
+            "m_Data": {
+                "m_Health": 1500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_1_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_2_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Hood_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Truck_01_Covered_Blue",
+            "m_LocalPosition": [
+                12540.0732421875,
+                17.795854568481447,
+                2204.826904296875
+            ],
+            "m_LocalRotation": [
+                -15.46577262878418,
+                -6.84161376953125,
+                -11.625466346740723
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_1_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Door_2_1_Blue",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Hood_Blue",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TruckBattery",
+                    "m_Data": {
+                        "m_Health": 240.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -6
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Truck_01_WheelDouble",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

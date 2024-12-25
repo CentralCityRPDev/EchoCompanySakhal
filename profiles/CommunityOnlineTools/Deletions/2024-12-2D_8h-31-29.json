@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "CarTent",
+            "m_LocalPosition": [
+                9658.580078125,
+                15.39959716796875,
+                13395.17578125
+            ],
+            "m_LocalRotation": [
+                95.41262817382813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 712.5029296875,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,491 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5044.62890625,
+                37.86980438232422,
+                3748.078857421875
+            ],
+            "m_LocalRotation": [
+                90.0,
+                89.78601837158203,
+                141.6263427734375
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5052.93896484375,
+                37.8861083984375,
+                3751.193359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5056.1943359375,
+                37.84834289550781,
+                3753.253662109375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5051.04296875,
+                37.89703369140625,
+                3753.032470703125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5059.76123046875,
+                37.88471984863281,
+                3751.246337890625
+            ],
+            "m_LocalRotation": [
+                -131.29063415527345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_metal_up",
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "base",
+                "wall_base_up",
+                "wall_metal_down",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5044.9091796875,
+                37.8842658996582,
+                3746.724609375
+            ],
+            "m_LocalRotation": [
+                168.37062072753907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_metal_up",
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "base",
+                "wall_base_up",
+                "wall_metal_down",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5066.17724609375,
+                37.67641067504883,
+                3754.72509765625
+            ],
+            "m_LocalRotation": [
+                -34.30036163330078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5060.79931640625,
+                37.8682975769043,
+                3752.16015625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5052.47314453125,
+                37.883113861083987,
+                3749.89111328125
+            ],
+            "m_LocalRotation": [
+                -160.24046325683595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_metal_up",
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "base",
+                "wall_base_up",
+                "wall_metal_down",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5054.85302734375,
+                37.868553161621097,
+                3753.591064453125
+            ],
+            "m_LocalRotation": [
+                -75.80796813964844,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_metal_up",
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "base",
+                "wall_base_up",
+                "wall_metal_down",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                5049.81982421875,
+                37.86846160888672,
+                3753.677734375
+            ],
+            "m_LocalRotation": [
+                -62.11859130859375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_metal_up",
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "base",
+                "wall_base_up",
+                "wall_metal_down",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

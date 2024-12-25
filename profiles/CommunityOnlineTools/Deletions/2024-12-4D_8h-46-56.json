@@ -1,0 +1,257 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "PileOfWoodenPlanks",
+            "m_LocalPosition": [
+                5039.94677734375,
+                37.796077728271487,
+                3753.662353515625
+            ],
+            "m_LocalRotation": [
+                -155.59312438964845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 252.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5035.455078125,
+                39.662025451660159,
+                3759.365966796875
+            ],
+            "m_LocalRotation": [
+                -76.77479553222656,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5034.86181640625,
+                40.00324249267578,
+                3759.4482421875
+            ],
+            "m_LocalRotation": [
+                -73.74248504638672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5034.48828125,
+                40.217960357666019,
+                3759.500732421875
+            ],
+            "m_LocalRotation": [
+                106.59259033203125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5038.84814453125,
+                38.46401596069336,
+                3758.0849609375
+            ],
+            "m_LocalRotation": [
+                -94.18866729736328,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5037.76904296875,
+                39.04456329345703,
+                3757.49169921875
+            ],
+            "m_LocalRotation": [
+                -162.6685333251953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5039.38916015625,
+                38.59895706176758,
+                3760.14453125
+            ],
+            "m_LocalRotation": [
+                80.03782653808594,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5039.99609375,
+                38.85261535644531,
+                3760.89892578125
+            ],
+            "m_LocalRotation": [
+                -91.15633392333985,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5038.1748046875,
+                38.8250732421875,
+                3757.716064453125
+            ],
+            "m_LocalRotation": [
+                40.68362045288086,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5040.08935546875,
+                38.8917236328125,
+                3761.015869140625
+            ],
+            "m_LocalRotation": [
+                91.43099212646485,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5037.88525390625,
+                38.981422424316409,
+                3757.555908203125
+            ],
+            "m_LocalRotation": [
+                0.9888099431991577,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5040.29150390625,
+                38.97599411010742,
+                3761.268798828125
+            ],
+            "m_LocalRotation": [
+                10.723002433776856,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

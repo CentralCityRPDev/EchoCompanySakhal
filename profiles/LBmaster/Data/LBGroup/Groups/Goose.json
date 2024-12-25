@@ -1,0 +1,48 @@
+{
+    "name": "Goose",
+    "shortname": "Goose",
+    "level": 0,
+    "lastActivity": 1729041511,
+    "creationDate": 1729041353,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 1362272941,
+            "name": "Spike",
+            "icon": "",
+            "position": [
+                13427.6396484375,
+                2.562499523162842,
+                12015.8447265625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561198241279772",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 87.6931381225586,
+            "tempMember": 0
+        }
+    ],
+    "markers": []
+}

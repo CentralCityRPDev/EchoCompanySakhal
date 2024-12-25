@@ -1,0 +1,12 @@
+[
+    {
+        "level": 0,
+        "maxPlayerCount": 5,
+        "upgradeCost": 0,
+        "subgroupCount": 0,
+        "subgroupSize": 0,
+        "groupMarkerLimitAdded": 0,
+        "groupPingsLimitAdded": 0,
+        "groupPlotpolesLimitAdded": 0
+    }
+]

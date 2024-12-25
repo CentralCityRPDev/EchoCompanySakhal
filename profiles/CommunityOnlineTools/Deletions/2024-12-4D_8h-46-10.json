@@ -1,0 +1,121 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5052.83984375,
+                37.851505279541019,
+                3750.546630859375
+            ],
+            "m_LocalRotation": [
+                29.49921989440918,
+                0.017612535506486894,
+                0.03233066573739052
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5052.6474609375,
+                37.85151672363281,
+                3750.440185546875
+            ],
+            "m_LocalRotation": [
+                -171.16116333007813,
+                -0.028000956401228906,
+                -0.02439890429377556
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5052.01318359375,
+                37.851539611816409,
+                3750.08740234375
+            ],
+            "m_LocalRotation": [
+                -162.66851806640626,
+                -0.024010980501770974,
+                -0.02824336849153042
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                5051.4013671875,
+                37.86827087402344,
+                3751.72705078125
+            ],
+            "m_LocalRotation": [
+                92.81546020507813,
+                -0.6547871828079224,
+                -0.3858645558357239
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5051.16455078125,
+                37.90312194824219,
+                3751.813232421875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

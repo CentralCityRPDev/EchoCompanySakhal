@@ -1,0 +1,47 @@
+************************** 2024-12-02T22:00:19+00:00 **************************
+2024-12-02T22:00:19+00:00 | [INFO	] GameLabs v1.938 start for server d8a76073-d8f6-4065-90d5-ed76f0e73f86
+2024-12-02T22:00:26+00:00 | [INFO	] Server up (GameLabs v1.938; terrain=sakhal;)
+2024-12-02T22:00:26+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-12-02T22:00:26+00:00 | [INFO	] Experimental speed check is enabled
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94cd92a0> uuid=98686770-EC77-40BC-9288-38D8985167F3;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94ccfec0> uuid=21297E3B-93FE-4A61-B32D-48E2A28AEDCA;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] TerritoryFlag<94cbcc70> uuid=5CF628E1-5738-47F7-B847-A4820AAD962F;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94ccbf60> uuid=93397A1E-BC59-4B03-9A50-AC62F56B05EA;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94cc55c0> uuid=405CF9A7-4478-4384-B753-7A4B41CE5932;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94cd1e70> uuid=6DB825D3-588A-4B6A-B62F-52311862B68F;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94cc6ae0> uuid=FEE38163-A688-49F6-A961-182B88DD5018;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<9880fa30> uuid=E464EAF5-9B4C-4926-AC57-B9F7E0F26B76;
+2024-12-02T22:00:35+00:00 | [INFO	] [BaseBuildingBase] Fence<94cdd200> uuid=F662440C-AE7D-4EA1-AFB2-72C679DB4209;
+2024-12-02T22:44:17+00:00 | [INFO	] [BaseBuildingBase] Fence<d29a2c40> uuid=11792CF8-9887-4BDB-BEBA-84CD8C32ABDE;
+2024-12-02T22:53:34+00:00 | [INFO	] [BaseBuildingBase] Fence<ceecd590> uuid=E316143F-C6FD-473E-856A-6CBC090B9C84;
+2024-12-02T22:54:39+00:00 | [INFO	] [BaseBuildingBase] Fence<ceed34a0> uuid=6D89A45E-2CAD-4F7B-B68B-24F23EC85E93;
+2024-12-02T23:00:27+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-12-02T23:00:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-12-02T23:00:27+00:00 | [WARN	] RegisterAsync re-authorized
+2024-12-02T23:04:58+00:00 | [INFO	] [BaseBuildingBase] Fence<f26e13a0> uuid=F41A1717-FC88-4B29-8CBF-7C3AB8C1DE47;
+2024-12-02T23:16:32+00:00 | [WARN	] [Teleport] SurvivorBase<ab617380> position=0x000000005149f610 {<9330.55,52.2967,13096>}
+2024-12-02T23:16:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-12-02T23:16:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-02T23:16:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199643612211, distance=52.2967u, unitsPerSecond=20.8211 [threshold=8, inVehicle=0, triggers=1])
+2024-12-02T23:16:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-02T23:16:32+00:00 | [WARN	] ****************************************
+2024-12-03T00:00:32+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-12-03T00:00:32+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-12-03T00:00:32+00:00 | [WARN	] RegisterAsync re-authorized
+2024-12-03T00:13:49+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-12-03T00:13:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-03T00:13:49+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199229421873, distance=21.5976u, unitsPerSecond=8.62893 [threshold=8, inVehicle=0, triggers=1])
+2024-12-03T00:13:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-03T00:13:49+00:00 | [WARN	] ****************************************
+2024-12-03T00:17:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-12-03T00:17:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-03T00:17:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199229421873, distance=21.7326u, unitsPerSecond=8.69303 [threshold=8, inVehicle=0, triggers=2])
+2024-12-03T00:17:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-12-03T00:17:37+00:00 | [WARN	] ****************************************
+2024-12-03T00:25:57+00:00 | [INFO	] [BaseBuildingBase] Fence<8f8158b0> uuid=833C6FEF-B3EB-49D0-B4EB-6E36A7716A9F;
+2024-12-03T00:26:41+00:00 | [INFO	] [BaseBuildingBase] Fence<f14ec440> uuid=34BE7ECF-FA32-4851-B264-634CF928FADD;
+2024-12-03T01:00:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-12-03T01:00:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-12-03T01:00:37+00:00 | [WARN	] RegisterAsync re-authorized
+2024-12-03T02:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-12-03T02:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

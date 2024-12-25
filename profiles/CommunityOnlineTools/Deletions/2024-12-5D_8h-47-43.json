@@ -1,0 +1,37 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "BarrelHoles_Red",
+            "m_LocalPosition": [
+                4553.3740234375,
+                38.49716567993164,
+                4235.513671875
+            ],
+            "m_LocalRotation": [
+                -36.34996032714844,
+                -7.2979416847229,
+                -2.2875795364379885
+            ],
+            "m_Data": {
+                "m_Health": 900.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 472
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Firewood",
+                    "m_Data": {
+                        "m_Health": 147.50003051757813,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

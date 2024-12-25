@@ -1,0 +1,558 @@
+﻿21:00:16 BattlEye Server: Initialized (v1.219, DayZ 1.26.159040)
+21:00:16 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.26.159040)
+21:00:16 Hostname of server: "Echo Company Sakhal | 1PP | .gg/echocompany | Wiped 12-1"
+21:00:16 BattlEye Server: Config entry: RConPassword 3d91d198d6056615756dd80e5e8fc71b
+21:00:16 BattlEye Server: Config entry: RConPort 2305
+21:00:16 BattlEye Server: Config entry: RestrictRCon 0
+21:00:16 Roles assigned.
+21:00:16 Reading mission ...
+21:00:21 [CE][Hive] :: Initializing OFFLINE
+21:00:21 [StorageDirs] :: Selected storage directory: C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\
+21:00:21 [CE][Hive] :: Loading core data ... 
+21:00:21 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+21:00:25 [CE][TypeSetup] :: 566 classes setuped...
+21:00:25 [CE][TypeSetup] :: 18 classes setuped...
+21:00:25 [CE][RegisterBind] :: 0 classes binded...
+21:00:25 [CE][RegisterConfig] :: 6126 config classes registered, 0 sub-counters...
+21:00:25 [CE][Hive] :: Loading map data ... 
+21:00:25 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+21:00:25 [CE][LoadPrototype] :: loaded 511 prototypes
+21:00:25   1000 containers, 13451 points
+21:00:25   71 dispatches, 250 proxies
+21:00:25 !!! [CE][LoadPrototype] 5 groups have no points...
+21:00:25 !!! [CE][LoadPrototype] 11 groups have wrong points...
+21:00:25 [CE][LoadPrototype] :: last group name: Land_Misc_WoodenCrate_Spawn...
+21:00:25 [CE][LoadPrototype] :: loaded 0 prototypes
+21:00:25   63 containers, 338 points
+21:00:25   0 dispatches, 0 proxies
+21:00:25 [CE][LoadPrototype] :: last group name: RoadMud_7100...
+21:00:25 [CE][LoadMap] "Group" :: loaded 10024 groups, groups failed: 1759, largest group range: 46.6
+21:00:25 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 46.6
+21:00:25 [CE][LoadClusters] "Cluster" :: Loading files...
+21:00:25 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 2 types, 49386 instances
+21:00:25 [CE][Storage] ver:21 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\types.bin"
+21:00:25 [CE][Storage] ver:21 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\types.001"
+21:00:25 [CE][Storage] ver:21 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\types.002"
+21:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\types.001".
+21:00:25 !!! File "DZ\worlds\sakhal\ce\db/messages.xml" does not exist...
+21:00:25 !!! [ERROR][XML] :: load [DZ\worlds\sakhal\ce\db/messages.xml] failed
+21:00:25 !!! [ERROR][XML] :: Failed to open file
+21:00:25 !!! [CE][offlineDB] :: Failed to read messages file 'db/messages.xml'.
+21:00:25 !!! [CE][offlineDB] :: No Shutdown message present.
+21:00:25 [CE][offlineDB] :: Loaded 40 dynamic events 181 total types.
+21:00:25 !!! [CE][offlineDB] :: Type 'Land_wreck_sed02_aban1_police' will be ignored. (Not spawnable. (Scope is not public?))
+21:00:25 !!! [CE][offlineDB] :: Type 'Land_wreck_sed02_aban2_police' will be ignored. (Not spawnable. (Scope is not public?))
+21:00:25 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleOffroad02'.
+21:00:25 [CE][DE][SPAWNS] :: Total positions: 557
+21:00:25 [CE][DE][GROUPS] :: Total eventgroups defined: 1, Eventgroups in use: 1
+21:00:25 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\events.bin"
+21:00:25 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\events.001"
+21:00:25 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\events.002"
+21:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\events.001".
+21:00:25 [CE][DynamicEvent] Load  Events:[40] Primary spawners: 40 Secondary spawners: 2
+21:00:25 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.bin"
+21:00:25 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.001"
+21:00:25 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.002"
+21:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.001" 106 items.
+21:00:26   106 items loaded. (0 failed)
+21:00:26 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.bin"
+21:00:26 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.001"
+21:00:26 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.002"
+21:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.001" 579 items.
+21:00:26   579 items loaded. (0 failed)
+21:00:26 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.bin"
+21:00:26 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.001"
+21:00:26 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.002"
+21:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.001" 596 items.
+21:00:26   596 items loaded. (0 failed)
+21:00:26 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.bin"
+21:00:26 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.001"
+21:00:26 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.002"
+21:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.001" 732 items.
+21:00:27   732 items loaded. (0 failed)
+21:00:27 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.bin"
+21:00:27 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.001"
+21:00:27 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.002"
+21:00:27 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.001" 3449 items.
+21:00:28   3449 items loaded. (0 failed)
+21:00:28 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.bin"
+21:00:28 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.001"
+21:00:28 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.002"
+21:00:28 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.001" 1670 items.
+21:00:28   1670 items loaded. (0 failed)
+21:00:28 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.bin"
+21:00:28 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.001"
+21:00:28 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.002"
+21:00:28 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.001" 2077 items.
+21:00:29   2077 items loaded. (0 failed)
+21:00:29 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.bin"
+21:00:29 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.001"
+21:00:29 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.002"
+21:00:29 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.001" 1429 items.
+21:00:30   1429 items loaded. (0 failed)
+21:00:30 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.bin"
+21:00:30 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.001"
+21:00:30 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.002"
+21:00:30 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.001" 1719 items.
+21:00:30   1719 items loaded. (0 failed)
+21:00:30 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.bin"
+21:00:30 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.001"
+21:00:30 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.002"
+21:00:30 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.001" 821 items.
+21:00:30   821 items loaded. (0 failed)
+21:00:30 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.bin"
+21:00:30 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.001"
+21:00:30 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.002"
+21:00:30 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.001" 1447 items.
+21:00:31   1447 items loaded. (0 failed)
+21:00:31 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.bin"
+21:00:31 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.001"
+21:00:31 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.002"
+21:00:31 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.001" 555 items.
+21:00:31   555 items loaded. (0 failed)
+21:00:31 [CE][Storage] ver:26 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\building.bin"
+21:00:31 [CE][Storage] ver:26 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\building.001"
+21:00:31 [CE][Storage] ver:26 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\building.002"
+21:00:31 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\building.001" 5 items.
+21:00:31   5 items loaded. (0 failed)
+21:00:31 [CE][Storage] ver:25 stamp:84232, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.bin"
+21:00:31 [CE][Storage] ver:25 stamp:84233, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.001"
+21:00:31 [CE][Storage] ver:25 stamp:84231, valid:yes, name:"C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.002"
+21:00:31 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\OmegaManager\servers\Sakhal\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.001" 108 items.
+21:00:31   108 items loaded. (0 failed)
+21:00:31 [CE][Hive] :: Storage load took:5.77 seconds, recovery stamp:84233
+21:00:31   entity: 23675, building: 5
+21:00:31   no lifetime: 207
+21:00:31   pathgraph's: 495
+21:00:31 [CE][Hive] :: Initializing ... 
+21:00:31 [CE][InitializeMap] :: initialized: 1
+21:00:31 [CE][Hive] :: Initializing spawners ... 
+21:00:32 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:12689, Total in Map: 15279 at 0 (sec)
+21:00:32   tests:0, repeats:0 fails:0, overtime:0
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 7, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 7, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 7, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 7, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 9, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 9, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 5, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 9, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 5, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 8, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 5, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 8, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 6, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 8, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 5, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 [CE][SpawnRandomLoot] (StaticChristmasTree) :: Type: ChristmasTree_Green, lootmin: 5, lootmax: 10, wanted: 9, deloot: 2, containermaxsum: 10
+21:00:32 	!!! (child) ChristmasTree_Green spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+21:00:32 !!! [CE][VehicleRespawner] (PRIChristmasTree) :: Init: "StaticChristmasTree" - Failed to spawn the requested amount (23 < 25) within 75 attempts.
+21:00:32 [CE][DynEvent] :: 40 types
+21:00:32 [00] AmbientFox
+21:00:32   Primary Spawner: "Ambient", active: yes, repeat: 1
+21:00:32 [01] AmbientHare
+21:00:32   Primary Spawner: "Ambient", active: yes, repeat: 1
+21:00:32 [02] AnimalBear
+21:00:32   Primary Spawner: "Animal", active: yes, repeat: 1
+21:00:32 [03] AnimalGoat
+21:00:32   Primary Spawner: "Animal", active: yes, repeat: 1
+21:00:32 [04] AnimalReindeer
+21:00:32   Primary Spawner: "Animal", active: yes, repeat: 1
+21:00:32 [05] AnimalSheep
+21:00:32   Primary Spawner: "Animal", active: yes, repeat: 1
+21:00:32 [06] AnimalWolf
+21:00:32   Primary Spawner: "Animal", active: yes, repeat: 1
+21:00:32 [07] InfectedArmy
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [08] InfectedArmyHeavy
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [09] InfectedCity
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [10] InfectedCityTier1
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [11] InfectedFirefighter
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [12] InfectedIndustrial
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [13] InfectedMedic
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [14] InfectedNBC
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [15] InfectedPolice
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [16] InfectedPoliceHard
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [17] InfectedPrisoner
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [18] InfectedReligious
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [19] InfectedSanta
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [20] InfectedScientist
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [21] InfectedSolitude
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [22] InfectedVillage
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [23] InfectedVillageTier1
+21:00:32   Primary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [24] ItemPlanks
+21:00:32   Primary Spawner: "Item", active: yes, repeat: 1
+21:00:32 [25] Loot
+21:00:32   Primary Spawner: "Loot", active: yes, repeat: 2
+21:00:32 [26] StaticChristmasTree
+21:00:32   Primary Spawner: "Static", active: yes, repeat: 1
+21:00:32 [27] StaticMilitaryContainerSpecial
+21:00:32   Primary Spawner: "Static", active: yes, repeat: 1
+21:00:32 [28] StaticPoliceCar
+21:00:32   Primary Spawner: "Static", active: yes, repeat: 1
+21:00:32   Secondary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [29] StaticSantaCrash
+21:00:32   Primary Spawner: "Static", active: yes, repeat: 1
+21:00:32   Secondary Spawner: "Infected", active: yes, repeat: 1
+21:00:32 [30] StaticScientist
+21:00:32   Primary Spawner: "Static", active: yes, repeat: 1
+21:00:32 [31] TrajectoryCraterellus
+21:00:32   Primary Spawner: "Trajectory", active: yes, repeat: 1
+21:00:32 [32] TrajectoryStones
+21:00:32   Primary Spawner: "Trajectory", active: yes, repeat: 1
+21:00:32 [33] VehicleBoat
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [34] VehicleCivilianSedan
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [35] VehicleHatchback02
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [36] VehicleMilitaryBoat
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [37] VehicleOffroadHatchback
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [38] VehicleSedan02
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [39] VehicleTruck01
+21:00:32   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:00:32 [CE][Hive] :: Initializing of spawners done.
+21:00:32 [CE][Hive] :: Init sequence finished.
+21:00:35 [IdleMode] Entering IN - save processed
+21:00:35 [UNLOCK] Server was unlocked.
+21:00:35 BattlEye Server: Command received: #unlock Result: OK
+21:00:35 BattlEye Server: Player #0 brysonZ28 (71.207.42.94:51383) connected
+21:00:35 Player brysonZ28 connecting.
+21:00:35 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid ) Entering WaitAuthPlayerLoginState
+21:00:35 BattlEye Server: Connected to BE Master
+21:00:36 [IdleMode] Leaving OUT
+21:00:37 BattlEye Server: Player #0 brysonZ28 - BE GUID: e06d5cf9619ccf4587e57f931a95cdb5
+21:00:38 BattlEye Server: Verified GUID (e06d5cf9619ccf4587e57f931a95cdb5) of player #0 brysonZ28
+21:00:38 Player brysonZ28 (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) has connected.
+21:00:38 Player "brysonZ28"(steamID=76561198412009942) is connected
+21:00:38 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid ) Entering WaitPlayerAssignedLoginState
+21:00:41 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid ) Entering PlayerAssignedLoginState
+21:00:41 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering DBGetLoginTimeLoginState
+21:00:41 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering DBWaitLoginTimeLoginState
+21:00:42 Average server FPS: 8534.30 (measured interval: 10 s)
+21:00:52 Average server FPS: 24877.90 (measured interval: 10 s)
+21:00:56 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering DBGetCharacterLoginState
+21:00:56 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering CreateNetObjectsLoginState
+21:00:56 Player brysonZ28 dpid=1771039786 at pos (14551.4, 1.8, 8911.3) 
+21:00:56 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering PreloadCamLoginState
+21:00:56 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering WaitPreloadCamLoginState
+21:00:57 Player "k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=:1771039786" took 46.474262 seconds to process it's network bubble where expected is 5.000000 seconds.They were at "14551.431641 1.767154 8911.308594" with 202 objects to create and 0 objects to delete.
+21:00:59 [StateMachine]: Player brysonZ28 (dpnid 1771039786 uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) Entering GetLoadedCharLoginState
+21:01:00 <LOAD EXISTING CHAR>:
+    charID 34
+    playerID 34
+    dpnid 1771039786
+    uid k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=
+21:01:02 BattlEye Server: RCon admin #0: (To brysonZ28) Welcome on Echo Company Sakhal | 1PP | .gg/echocompany | Wiped 12-1
+21:01:02 Average server FPS: 20065.10 (measured interval: 10 s)
+21:01:04 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:01:12 Average server FPS: 22708.40 (measured interval: 10 s)
+21:01:22 Average server FPS: 23455.90 (measured interval: 10 s)
+21:01:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban2_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+21:01:32 BattlEye Server: RCon admin #0: (Global) https://echocompanyservers.com/store/priority-queue
+21:01:32 Average server FPS: 15810.40 (measured interval: 10 s)
+21:01:42 Average server FPS: 3716.50 (measured interval: 10 s)
+21:01:52 Average server FPS: 16440.60 (measured interval: 10 s)
+21:02:02 Average server FPS: 21157.20 (measured interval: 10 s)
+21:02:07 Daryl Dixon uses modified data file
+21:02:07 [Login]: Adding player Daryl Dixon (1917886655) to login queue at position 0
+21:02:07 [LoginMachine]: Add player Daryl Dixon (1917886655 12.74.154.13:56557)
+21:02:07 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid ) Entering AuthPlayerLoginState
+21:02:07 BattlEye Server: Player #1 Daryl Dixon (12.74.154.13:56557) connected
+21:02:07 Player Daryl Dixon connecting.
+21:02:07 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid ) Entering WaitAuthPlayerLoginState
+21:02:08 BattlEye Server: Player #1 Daryl Dixon - BE GUID: e605329d3f6701ecb74aea7053a15980
+21:02:09 BattlEye Server: Verified GUID (e605329d3f6701ecb74aea7053a15980) of player #1 Daryl Dixon
+21:02:09 Player Daryl Dixon (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) has connected.
+21:02:09 Player "Daryl Dixon"(steamID=76561199643612211) is connected
+21:02:09 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid ) Entering WaitPlayerAssignedLoginState
+21:02:11 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid ) Entering PlayerAssignedLoginState
+21:02:11 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering DBGetLoginTimeLoginState
+21:02:11 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering DBWaitLoginTimeLoginState
+21:02:12 Average server FPS: 8559.40 (measured interval: 10 s)
+21:02:22 Average server FPS: 5793.90 (measured interval: 10 s)
+21:02:26 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering DBGetCharacterLoginState
+21:02:26 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering CreateNetObjectsLoginState
+21:02:26 Player Daryl Dixon dpid=1917886655 at pos (5778.2, 27.3, 12262.2) 
+21:02:26 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering PreloadCamLoginState
+21:02:26 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering WaitPreloadCamLoginState
+21:02:27 Player "rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=:1917886655" took 136.596344 seconds to process it's network bubble where expected is 5.000000 seconds.They were at "5778.181152 27.338867 12262.156250" with 186 objects to create and 0 objects to delete.
+21:02:29 [StateMachine]: Player Daryl Dixon (dpnid 1917886655 uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) Entering GetLoadedCharLoginState
+21:02:29 <LOAD EXISTING CHAR>:
+    charID 14
+    playerID 14
+    dpnid 1917886655
+    uid rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=
+21:02:32 BattlEye Server: RCon admin #0: (To Daryl Dixon) Welcome on Echo Company Sakhal | 1PP | .gg/echocompany | Wiped 12-1
+21:02:32 Average server FPS: 5499.20 (measured interval: 10 s)
+21:02:42 Average server FPS: 9443.10 (measured interval: 10 s)
+21:02:47 !!! [CE][Point] Removing 14333.652344, 11681.958008 from Land_Boat_Small10_Blue
+21:02:52 Average server FPS: 15098.00 (measured interval: 10 s)
+21:03:02 Average server FPS: 21872.10 (measured interval: 10 s)
+21:03:12 Average server FPS: 21738.80 (measured interval: 10 s)
+21:03:14 !!! [CE][Point] Removing 7863.881836, 7772.265137 from Land_BusStation_wall_bench
+21:03:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+21:03:22 Average server FPS: 20983.90 (measured interval: 10 s)
+21:03:32 Average server FPS: 21273.10 (measured interval: 10 s)
+21:03:42 Average server FPS: 20979.90 (measured interval: 10 s)
+21:03:52 Average server FPS: 22676.20 (measured interval: 10 s)
+21:04:02 Average server FPS: 22225.80 (measured interval: 10 s)
+21:04:12 Average server FPS: 22116.50 (measured interval: 10 s)
+21:04:22 Average server FPS: 22201.50 (measured interval: 10 s)
+21:04:32 Average server FPS: 21814.60 (measured interval: 10 s)
+21:04:42 Average server FPS: 21991.70 (measured interval: 10 s)
+21:04:52 Average server FPS: 19993.90 (measured interval: 10 s)
+21:05:02 Average server FPS: 21324.60 (measured interval: 10 s)
+21:05:12 Average server FPS: 22257.00 (measured interval: 10 s)
+21:05:22 Average server FPS: 22504.40 (measured interval: 10 s)
+21:05:32 Average server FPS: 21879.60 (measured interval: 10 s)
+21:05:42 Average server FPS: 21303.60 (measured interval: 10 s)
+21:05:52 Average server FPS: 22725.90 (measured interval: 10 s)
+21:06:02 Average server FPS: 22462.30 (measured interval: 10 s)
+21:06:12 Average server FPS: 22593.20 (measured interval: 10 s)
+21:06:22 Average server FPS: 22409.80 (measured interval: 10 s)
+21:06:32 Average server FPS: 22809.50 (measured interval: 10 s)
+21:06:42 Average server FPS: 22671.40 (measured interval: 10 s)
+21:06:52 Average server FPS: 22845.90 (measured interval: 10 s)
+21:07:02 Average server FPS: 22645.30 (measured interval: 10 s)
+21:07:12 Average server FPS: 22415.10 (measured interval: 10 s)
+21:07:22 Average server FPS: 22756.20 (measured interval: 10 s)
+21:07:32 Average server FPS: 22592.50 (measured interval: 10 s)
+21:07:42 Average server FPS: 22781.50 (measured interval: 10 s)
+21:07:52 Average server FPS: 22374.30 (measured interval: 10 s)
+21:08:02 Average server FPS: 22888.00 (measured interval: 10 s)
+21:08:10 !!! [CE][Point] Removing 5670.139160, 3947.734619 from Land_Roadblock_WoodenCrate
+21:08:12 Average server FPS: 22671.20 (measured interval: 10 s)
+21:08:14 [CE][SpawnRandomLoot] (StaticSantaCrash) :: Type: Wreck_SantasSleigh, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+21:08:22 Average server FPS: 21883.00 (measured interval: 10 s)
+21:08:32 Average server FPS: 22571.60 (measured interval: 10 s)
+21:08:37 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "SVD"
+21:08:42 Average server FPS: 20550.10 (measured interval: 10 s)
+21:08:52 Average server FPS: 22523.30 (measured interval: 10 s)
+21:09:02 Average server FPS: 22283.40 (measured interval: 10 s)
+21:09:07 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:09:07 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:09:12 Average server FPS: 22272.70 (measured interval: 10 s)
+21:09:22 Average server FPS: 22516.40 (measured interval: 10 s)
+21:09:32 Average server FPS: 22546.70 (measured interval: 10 s)
+21:09:42 Average server FPS: 22568.10 (measured interval: 10 s)
+21:09:52 Average server FPS: 22649.20 (measured interval: 10 s)
+21:10:02 Average server FPS: 22032.90 (measured interval: 10 s)
+21:10:12 Average server FPS: 22539.30 (measured interval: 10 s)
+21:10:22 Average server FPS: 22250.30 (measured interval: 10 s)
+21:10:32 Average server FPS: 21943.30 (measured interval: 10 s)
+21:10:42 Average server FPS: 22430.00 (measured interval: 10 s)
+21:10:52 Average server FPS: 20738.90 (measured interval: 10 s)
+21:10:56 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:10:56 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:10:56 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:11:02 Average server FPS: 22046.40 (measured interval: 10 s)
+21:11:12 Average server FPS: 22739.80 (measured interval: 10 s)
+21:11:22 Average server FPS: 22399.80 (measured interval: 10 s)
+21:11:32 BattlEye Server: RCon admin #0: (Global) https://echocompanyservers.com/store/priority-queue
+21:11:32 Average server FPS: 21917.60 (measured interval: 10 s)
+21:11:42 Average server FPS: 20524.70 (measured interval: 10 s)
+21:11:52 Average server FPS: 21308.60 (measured interval: 10 s)
+21:12:02 Average server FPS: 21836.30 (measured interval: 10 s)
+21:12:12 Average server FPS: 21706.60 (measured interval: 10 s)
+21:12:22 Average server FPS: 20949.70 (measured interval: 10 s)
+21:12:32 Average server FPS: 21529.20 (measured interval: 10 s)
+21:12:42 Average server FPS: 22740.50 (measured interval: 10 s)
+21:12:52 Average server FPS: 22357.20 (measured interval: 10 s)
+21:13:02 Average server FPS: 22058.70 (measured interval: 10 s)
+21:13:09 [CE][SpawnRandomLoot] (StaticSantaCrash) :: Type: Wreck_SantasSleigh, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+21:13:12 Average server FPS: 20760.90 (measured interval: 10 s)
+21:13:22 Average server FPS: 22363.60 (measured interval: 10 s)
+21:13:32 Average server FPS: 22820.70 (measured interval: 10 s)
+21:13:42 Average server FPS: 22334.40 (measured interval: 10 s)
+21:13:52 Average server FPS: 22899.40 (measured interval: 10 s)
+21:14:02 Average server FPS: 22680.70 (measured interval: 10 s)
+21:14:12 Average server FPS: 22500.70 (measured interval: 10 s)
+21:14:22 Average server FPS: 22494.60 (measured interval: 10 s)
+21:14:32 Average server FPS: 22211.50 (measured interval: 10 s)
+21:14:42 Average server FPS: 21442.60 (measured interval: 10 s)
+21:14:52 Average server FPS: 20023.20 (measured interval: 10 s)
+21:15:02 Average server FPS: 21582.40 (measured interval: 10 s)
+21:15:12 Average server FPS: 20769.40 (measured interval: 10 s)
+21:15:22 Average server FPS: 22507.80 (measured interval: 10 s)
+21:15:32 Average server FPS: 22673.30 (measured interval: 10 s)
+21:15:42 Average server FPS: 22813.40 (measured interval: 10 s)
+21:15:52 Average server FPS: 20862.50 (measured interval: 10 s)
+21:16:02 Average server FPS: 22474.30 (measured interval: 10 s)
+21:16:12 Average server FPS: 21982.70 (measured interval: 10 s)
+21:16:22 Average server FPS: 22207.10 (measured interval: 10 s)
+21:16:32 Average server FPS: 22630.00 (measured interval: 10 s)
+21:16:42 Average server FPS: 22488.40 (measured interval: 10 s)
+21:16:52 Average server FPS: 22667.20 (measured interval: 10 s)
+21:17:02 Average server FPS: 22540.90 (measured interval: 10 s)
+21:17:10 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:17:12 Average server FPS: 21092.70 (measured interval: 10 s)
+21:17:22 Average server FPS: 20216.10 (measured interval: 10 s)
+21:17:32 Average server FPS: 22683.00 (measured interval: 10 s)
+21:17:42 Average server FPS: 21663.40 (measured interval: 10 s)
+21:17:52 Average server FPS: 21349.80 (measured interval: 10 s)
+21:18:02 Average server FPS: 22460.10 (measured interval: 10 s)
+21:18:12 Average server FPS: 22193.40 (measured interval: 10 s)
+21:18:22 Average server FPS: 21947.70 (measured interval: 10 s)
+21:18:30 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "PressVest_Blue"
+21:18:32 Average server FPS: 21002.10 (measured interval: 10 s)
+21:18:42 Average server FPS: 22211.80 (measured interval: 10 s)
+21:18:52 Average server FPS: 21674.60 (measured interval: 10 s)
+21:19:02 Average server FPS: 20609.00 (measured interval: 10 s)
+21:19:12 Average server FPS: 20495.30 (measured interval: 10 s)
+21:19:22 Average server FPS: 22271.40 (measured interval: 10 s)
+21:19:32 Average server FPS: 21085.40 (measured interval: 10 s)
+21:19:41 Big_Steve uses modified data file
+21:19:41 [Login]: Adding player Big_Steve (183748721) to login queue at position 0
+21:19:41 [LoginMachine]: Add player Big_Steve (183748721 50.64.13.156:58925)
+21:19:41 [StateMachine]: Player Big_Steve (dpnid 183748721 uid ) Entering AuthPlayerLoginState
+21:19:41 BattlEye Server: Player #2 Big_Steve (50.64.13.156:58925) connected
+21:19:41 Player Big_Steve connecting.
+21:19:41 [StateMachine]: Player Big_Steve (dpnid 183748721 uid ) Entering WaitAuthPlayerLoginState
+21:19:42 Average server FPS: 22193.20 (measured interval: 10 s)
+21:19:43 BattlEye Server: Player #2 Big_Steve - BE GUID: ca4c0ad0c68e204af034cf59f1cca579
+21:19:44 BattlEye Server: Verified GUID (ca4c0ad0c68e204af034cf59f1cca579) of player #2 Big_Steve
+21:19:44 Player Big_Steve (id=5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) has connected.
+21:19:44 Player "Big_Steve"(steamID=76561198071307767) is connected
+21:19:44 [StateMachine]: Player Big_Steve (dpnid 183748721 uid ) Entering WaitPlayerAssignedLoginState
+21:19:46 [StateMachine]: Player Big_Steve (dpnid 183748721 uid ) Entering PlayerAssignedLoginState
+21:19:46 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering DBGetLoginTimeLoginState
+21:19:46 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering DBWaitLoginTimeLoginState
+21:19:52 Average server FPS: 22290.30 (measured interval: 10 s)
+21:20:01 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering DBGetCharacterLoginState
+21:20:01 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering CreateNetObjectsLoginState
+21:20:01 Player Big_Steve dpid=183748721 at pos (9485.3, 94.8, 10870.9) 
+21:20:01 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering PreloadCamLoginState
+21:20:01 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering WaitPreloadCamLoginState
+21:20:02 Average server FPS: 19538.80 (measured interval: 10 s)
+21:20:03 [StateMachine]: Player Big_Steve (dpnid 183748721 uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) Entering GetLoadedCharLoginState
+21:20:03 <LOAD EXISTING CHAR>:
+    charID 17
+    playerID 17
+    dpnid 183748721
+    uid 5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=
+21:20:06 BattlEye Server: RCon admin #0: (To Big_Steve) Welcome on Echo Company Sakhal | 1PP | .gg/echocompany | Wiped 12-1
+21:20:06 Player "5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=:183748721" took 1195.463135 seconds to process it's network bubble where expected is 5.000000 seconds.They were at "9485.322266 94.761269 10870.894531" with 102 objects to create and 0 objects to delete.
+21:20:12 Average server FPS: 18348.90 (measured interval: 10 s)
+21:20:22 Average server FPS: 16236.50 (measured interval: 10 s)
+21:20:32 Average server FPS: 18690.00 (measured interval: 10 s)
+21:20:35 [Disconnect]: Start script disconnect 183748721 (dbCharacterId 17 dbPlayerId 17) logoutTime 15
+21:20:42 Average server FPS: 19241.50 (measured interval: 10 s)
+21:20:47 [Disconnect]: Cancel script disconnect 183748721 (dbCharacterId 17 dbPlayerId 17)
+21:20:52 Average server FPS: 19671.40 (measured interval: 10 s)
+21:21:02 Average server FPS: 19076.80 (measured interval: 10 s)
+21:21:12 Average server FPS: 19510.60 (measured interval: 10 s)
+21:21:22 Average server FPS: 18563.10 (measured interval: 10 s)
+21:21:32 BattlEye Server: RCon admin #0: (Global) https://echocompanyservers.com/store/priority-queue
+21:21:32 Average server FPS: 18375.10 (measured interval: 10 s)
+21:21:42 Average server FPS: 19503.00 (measured interval: 10 s)
+21:21:52 Average server FPS: 19476.20 (measured interval: 10 s)
+21:22:02 Average server FPS: 17607.40 (measured interval: 10 s)
+21:22:06 [CE][SpawnRandomLoot] (StaticMilitaryContainerSpecial) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 3, wanted: 3, deloot: 2, containermaxsum: 3
+21:22:12 Average server FPS: 20416.90 (measured interval: 10 s)
+21:22:22 Average server FPS: 20201.90 (measured interval: 10 s)
+21:22:32 Average server FPS: 19272.70 (measured interval: 10 s)
+21:22:42 Average server FPS: 16922.90 (measured interval: 10 s)
+21:22:52 Average server FPS: 17179.60 (measured interval: 10 s)
+21:23:02 Average server FPS: 17866.80 (measured interval: 10 s)
+21:23:10 [Disconnect]: Start script disconnect 183748721 (dbCharacterId 17 dbPlayerId 17) logoutTime 15
+21:23:12 Average server FPS: 16320.40 (measured interval: 10 s)
+21:23:22 Average server FPS: 18228.90 (measured interval: 10 s)
+21:23:25 [Disconnect]: Finish script disconnect 183748721 (5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=)
+21:23:25 [Disconnect]: DisconnectPlayerFinish 183748721
+21:23:26 [Disconnect]: Remove player info 183748721
+21:23:26 [Disconnect]: Player destroy 183748721 
+21:23:26 Player Big_Steve disconnected.
+21:23:26 BattlEye Server: Player #2 Big_Steve disconnected
+21:23:32 Average server FPS: 19906.30 (measured interval: 10 s)
+21:23:42 Average server FPS: 22270.30 (measured interval: 10 s)
+21:23:52 Average server FPS: 22440.70 (measured interval: 10 s)
+21:24:02 Average server FPS: 22009.20 (measured interval: 10 s)
+21:24:12 Average server FPS: 21318.80 (measured interval: 10 s)
+21:24:22 Average server FPS: 21857.00 (measured interval: 10 s)
+21:24:32 Average server FPS: 22235.00 (measured interval: 10 s)
+21:24:42 Average server FPS: 22546.10 (measured interval: 10 s)
+21:24:50 [CE][SpawnRandomLoot] (StaticSantaCrash) :: Type: Wreck_SantasSleigh, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+21:24:52 Average server FPS: 20932.00 (measured interval: 10 s)
+21:25:02 Average server FPS: 21193.60 (measured interval: 10 s)
+21:25:12 Average server FPS: 22165.90 (measured interval: 10 s)
+21:25:22 Average server FPS: 22144.10 (measured interval: 10 s)
+21:25:32 Average server FPS: 21445.80 (measured interval: 10 s)
+21:25:42 Average server FPS: 21820.70 (measured interval: 10 s)
+21:25:52 Average server FPS: 22194.20 (measured interval: 10 s)
+21:26:02 Average server FPS: 22219.70 (measured interval: 10 s)
+21:26:12 Average server FPS: 22161.90 (measured interval: 10 s)
+21:26:22 Average server FPS: 22059.40 (measured interval: 10 s)
+21:26:32 Average server FPS: 22103.40 (measured interval: 10 s)
+21:26:42 Average server FPS: 21663.20 (measured interval: 10 s)
+21:26:52 Average server FPS: 21415.70 (measured interval: 10 s)
+21:27:02 Average server FPS: 21918.70 (measured interval: 10 s)
+21:27:12 Average server FPS: 21704.10 (measured interval: 10 s)
+21:27:22 Average server FPS: 21929.40 (measured interval: 10 s)
+21:27:32 Average server FPS: 22155.50 (measured interval: 10 s)
+21:27:42 Average server FPS: 22158.60 (measured interval: 10 s)
+21:27:52 Average server FPS: 21628.10 (measured interval: 10 s)
+21:27:57 [CE][SpawnRandomLoot] (StaticSantaCrash) :: Type: Wreck_SantasSleigh, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+21:28:02 Average server FPS: 21745.00 (measured interval: 10 s)
+21:28:12 Average server FPS: 22203.70 (measured interval: 10 s)
+21:28:21 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "NBCHoodWhite"
+21:28:22 Average server FPS: 20987.90 (measured interval: 10 s)
+21:28:32 Average server FPS: 22246.50 (measured interval: 10 s)
+21:28:42 Average server FPS: 22204.40 (measured interval: 10 s)
+21:28:51 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban2_Police_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+21:28:51 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban2_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+21:28:52 Average server FPS: 21052.80 (measured interval: 10 s)
+21:29:02 Average server FPS: 21737.10 (measured interval: 10 s)
+21:29:12 Average server FPS: 22174.00 (measured interval: 10 s)
+21:29:22 Average server FPS: 22082.50 (measured interval: 10 s)
+21:29:32 Average server FPS: 22523.90 (measured interval: 10 s)
+21:29:42 Average server FPS: 21862.50 (measured interval: 10 s)
+21:29:46 [CE][SpawnRandomLoot] (StaticSantaCrash

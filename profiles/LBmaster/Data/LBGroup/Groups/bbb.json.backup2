@@ -1,0 +1,48 @@
+{
+    "name": "bb BRENS",
+    "shortname": "bbb",
+    "level": 0,
+    "lastActivity": 1729041406,
+    "creationDate": 1729041322,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 2687257,
+            "name": "Brendan",
+            "icon": "",
+            "position": [
+                10248.798828125,
+                5.599293231964111,
+                13391.68359375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561198081958453",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 68.11026000976563,
+            "tempMember": 0
+        }
+    ],
+    "markers": []
+}

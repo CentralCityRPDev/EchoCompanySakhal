@@ -1,0 +1,300 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "MakarovIJ70",
+            "m_LocalPosition": [
+                2294.8203125,
+                13.55518627166748,
+                3526.299072265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99.24870300292969,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_IJ70_8Rnd",
+                    "m_Data": {
+                        "m_Health": 69.99470520019531,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Saiga",
+            "m_LocalPosition": [
+                2247.176025390625,
+                12.279001235961914,
+                3497.489990234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 45.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Saiga_Bttstck",
+                    "m_Data": {
+                        "m_Health": 45.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_Saiga_5Rnd",
+                    "m_Data": {
+                        "m_Health": 18.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "MakarovIJ70",
+            "m_LocalPosition": [
+                2291.7392578125,
+                13.554600715637207,
+                3522.4375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 81.87423706054688,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_IJ70_8Rnd",
+                    "m_Data": {
+                        "m_Health": 62.5201530456543,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Galife_Pants_Navy",
+            "m_LocalPosition": [
+                2308.31787109375,
+                13.593385696411133,
+                3519.474609375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 62.98714828491211,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CombatBoots_Brown",
+            "m_LocalPosition": [
+                2256.221923828125,
+                12.108986854553223,
+                3499.976806640625
+            ],
+            "m_LocalRotation": [
+                -99.66002655029297,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 91.3193359375,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "OMKPants_Navy",
+            "m_LocalPosition": [
+                2245.01806640625,
+                12.263298034667969,
+                3499.862548828125
+            ],
+            "m_LocalRotation": [
+                -164.29457092285157,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 28.80000114440918,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AKM_30Rnd",
+            "m_LocalPosition": [
+                2258.914306640625,
+                12.128689765930176,
+                3501.870849609375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 18.296306610107423,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaEJacket_Autumn",
+            "m_LocalPosition": [
+                2196.450927734375,
+                12.39991569519043,
+                3478.48779296875
+            ],
+            "m_LocalRotation": [
+                -110.74556732177735,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 93.72138977050781,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoolGloves_Green",
+            "m_LocalPosition": [
+                2269.272216796875,
+                12.040535926818848,
+                3499.406494140625
+            ],
+            "m_LocalRotation": [
+                76.91763305664063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 89.0213394165039,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TTSKOBoots",
+            "m_LocalPosition": [
+                2268.02978515625,
+                12.363385200500489,
+                3494.311279296875
+            ],
+            "m_LocalRotation": [
+                49.23121643066406,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.29087829589844,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "CombatBoots_Beige",
+            "m_LocalPosition": [
+                2305.329833984375,
+                12.541732788085938,
+                3469.357177734375
+            ],
+            "m_LocalRotation": [
+                -124.32508087158203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 133.20989990234376,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BomberJacket_Olive",
+            "m_LocalPosition": [
+                2292.301025390625,
+                13.390413284301758,
+                3514.85400390625
+            ],
+            "m_LocalRotation": [
+                -109.20743560791016,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 23.400001525878908,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

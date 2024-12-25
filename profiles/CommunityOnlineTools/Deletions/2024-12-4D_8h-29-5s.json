@@ -1,0 +1,1120 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5056.8623046875,
+                37.84840393066406,
+                3740.1962890625
+            ],
+            "m_LocalRotation": [
+                151.5640411376953,
+                0.00006884329923195764,
+                -0.0002314607845619321
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "NVGHeadstrap",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.33769607543945,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                -164.1265411376953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 196.24932861328126,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GhillieBushrag_Winter",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.502540588378909,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                7.909534454345703,
+                -90.0,
+                -172.09519958496095
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Flag_Cannibals",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.346004486083987,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                -164.1265411376953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99.28434753417969,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5062.2265625,
+                37.79865264892578,
+                3752.9970703125
+            ],
+            "m_LocalRotation": [
+                151.56405639648438,
+                -0.0012655206955969334,
+                0.002124445280060172
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5052.404296875,
+                37.839805603027347,
+                3741.810302734375
+            ],
+            "m_LocalRotation": [
+                -163.331787109375,
+                -0.02822841703891754,
+                0.09212218225002289
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5051.72216796875,
+                37.83864974975586,
+                3739.89453125
+            ],
+            "m_LocalRotation": [
+                -163.07359313964845,
+                -0.028502648696303369,
+                0.09277825802564621
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.5830078125,
+                23.0391902923584,
+                3848.772705078125
+            ],
+            "m_LocalRotation": [
+                -125.04096221923828,
+                3.362321138381958,
+                178.9476318359375
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 126.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.73291015625,
+                23.007787704467775,
+                3848.873779296875
+            ],
+            "m_LocalRotation": [
+                -26.77781105041504,
+                0.5595390200614929,
+                3.4783174991607668
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 85.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.6669921875,
+                23.03499412536621,
+                3848.734375
+            ],
+            "m_LocalRotation": [
+                -167.18032836914063,
+                1.7881357669830323,
+                176.96405029296876
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 136.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Guts",
+            "m_LocalPosition": [
+                5137.376953125,
+                23.081039428710939,
+                3848.1416015625
+            ],
+            "m_LocalRotation": [
+                -28.590417861938478,
+                7.2835307121276859,
+                15.17982292175293
+            ],
+            "m_Data": {
+                "m_Health": 40.0,
+                "m_Quantity": 281.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.43310546875,
+                23.0445613861084,
+                3848.715087890625
+            ],
+            "m_LocalRotation": [
+                -65.97028350830078,
+                14.982234001159668,
+                7.688706874847412
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 76.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.43798828125,
+                23.072996139526368,
+                3848.221435546875
+            ],
+            "m_LocalRotation": [
+                82.83658599853516,
+                -16.768043518066408,
+                -178.95477294921876
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 149.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.44921875,
+                23.069316864013673,
+                3848.233642578125
+            ],
+            "m_LocalRotation": [
+                -143.2638397216797,
+                11.045068740844727,
+                167.2620086669922
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 135.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.478515625,
+                23.042293548583986,
+                3848.241455078125
+            ],
+            "m_LocalRotation": [
+                -109.83204650878906,
+                16.16132164001465,
+                -4.649384498596191
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 76.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.45947265625,
+                23.066844940185548,
+                3848.222412109375
+            ],
+            "m_LocalRotation": [
+                151.8904571533203,
+                -7.153820991516113,
+                164.75973510742188
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 109.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5137.69091796875,
+                23.03513526916504,
+                3848.650390625
+            ],
+            "m_LocalRotation": [
+                -90.80052185058594,
+                3.3720862865448,
+                -178.97938537597657
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 92.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfPelt",
+            "m_LocalPosition": [
+                5137.51025390625,
+                23.054122924804689,
+                3848.20556640625
+            ],
+            "m_LocalRotation": [
+                54.752872467041019,
+                -14.405740737915039,
+                8.73616886138916
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Guts",
+            "m_LocalPosition": [
+                5137.46337890625,
+                23.06252098083496,
+                3848.24267578125
+            ],
+            "m_LocalRotation": [
+                -4.460818290710449,
+                0.2765291631221771,
+                16.797443389892579
+            ],
+            "m_Data": {
+                "m_Health": 40.0,
+                "m_Quantity": 275.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lard",
+            "m_LocalPosition": [
+                5137.42041015625,
+                23.04764175415039,
+                3848.3525390625
+            ],
+            "m_LocalRotation": [
+                34.9806022644043,
+                -10.650045394897461,
+                13.068406105041504
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 135.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -1
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Bone",
+            "m_LocalPosition": [
+                5137.4404296875,
+                23.031818389892579,
+                3848.68994140625
+            ],
+            "m_LocalRotation": [
+                -86.31026458740235,
+                16.67336082458496,
+                2.085888385772705
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 8.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5127.47119140625,
+                20.948591232299806,
+                3880.547607421875
+            ],
+            "m_LocalRotation": [
+                30.857250213623048,
+                -9.65468978881836,
+                0.22452573478221894
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 84.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5127.35693359375,
+                20.98638153076172,
+                3880.501220703125
+            ],
+            "m_LocalRotation": [
+                -173.6911163330078,
+                8.703885078430176,
+                175.79983520507813
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 118.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfSteakMeat",
+            "m_LocalPosition": [
+                5127.45947265625,
+                20.9757022857666,
+                3880.510498046875
+            ],
+            "m_LocalRotation": [
+                -167.93203735351563,
+                9.077608108520508,
+                176.69064331054688
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 92.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lard",
+            "m_LocalPosition": [
+                5127.8505859375,
+                20.895626068115236,
+                3880.61767578125
+            ],
+            "m_LocalRotation": [
+                84.09782409667969,
+                -5.993730545043945,
+                -7.586070537567139
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 110.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Guts",
+            "m_LocalPosition": [
+                5127.3818359375,
+                20.97173309326172,
+                3880.496826171875
+            ],
+            "m_LocalRotation": [
+                -114.57597351074219,
+                8.101213455200196,
+                5.274374008178711
+            ],
+            "m_Data": {
+                "m_Health": 40.0,
+                "m_Quantity": 375.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Bone",
+            "m_LocalPosition": [
+                5127.83642578125,
+                20.848237991333009,
+                3880.909423828125
+            ],
+            "m_LocalRotation": [
+                -138.2958984375,
+                9.527047157287598,
+                1.5879493951797486
+            ],
+            "m_Data": {
+                "m_Health": 46.153846740722659,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WolfPelt",
+            "m_LocalPosition": [
+                5127.4580078125,
+                20.943710327148439,
+                3880.487548828125
+            ],
+            "m_LocalRotation": [
+                -162.5906982421875,
+                9.343193054199219,
+                -2.4538064002990724
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Guts",
+            "m_LocalPosition": [
+                5127.39208984375,
+                20.97552490234375,
+                3880.4638671875
+            ],
+            "m_LocalRotation": [
+                158.3595733642578,
+                5.734080791473389,
+                -7.783694267272949
+            ],
+            "m_Data": {
+                "m_Health": 40.0,
+                "m_Quantity": 347.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PetrolLighter",
+            "m_LocalPosition": [
+                5054.78662109375,
+                37.615760803222659,
+                3763.161376953125
+            ],
+            "m_LocalRotation": [
+                -15.447245597839356,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 20.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PetrolLighter",
+            "m_LocalPosition": [
+                5053.9951171875,
+                37.38703918457031,
+                3765.612548828125
+            ],
+            "m_LocalRotation": [
+                118.79879760742188,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 20.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PetrolLighter",
+            "m_LocalPosition": [
+                5053.853515625,
+                37.528743743896487,
+                3763.4599609375
+            ],
+            "m_LocalRotation": [
+                176.12718200683595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 20.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LargeTent",
+            "m_LocalPosition": [
+                5050.8251953125,
+                37.79713821411133,
+                3740.3212890625
+            ],
+            "m_LocalRotation": [
+                104.79171752929688,
+                0.09372886270284653,
+                0.027127210050821306
+            ],
+            "m_Data": {
+                "m_Health": 2000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LargeTent",
+            "m_LocalPosition": [
+                5060.013671875,
+                37.792869567871097,
+                3751.90185546875
+            ],
+            "m_LocalRotation": [
+                108.29145812988281,
+                0.0010241720592603088,
+                0.001417218241840601
+            ],
+            "m_Data": {
+                "m_Health": 2000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "XmasLights",
+                    "m_Data": {
+                        "m_Health": 40.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "PetrolLighter",
+            "m_LocalPosition": [
+                5055.00830078125,
+                37.572608947753909,
+                3764.24267578125
+            ],
+            "m_LocalRotation": [
+                -26.258119583129884,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 20.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HeadlightH7",
+            "m_LocalPosition": [
+                5055.41357421875,
+                37.57298278808594,
+                3762.591552734375
+            ],
+            "m_LocalRotation": [
+                153.86117553710938,
+                -0.25314053893089297,
+                -90.24840545654297
+            ],
+            "m_Data": {
+                "m_Health": 10.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HeadlightH7",
+            "m_LocalPosition": [
+                5055.41357421875,
+                37.574623107910159,
+                3762.591552734375
+            ],
+            "m_LocalRotation": [
+                -26.13973617553711,
+                0.25462207198143008,
+                90.24932098388672
+            ],
+            "m_Data": {
+                "m_Health": 10.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WatchtowerKit",
+            "m_LocalPosition": [
+                5048.2236328125,
+                37.97938537597656,
+                3749.162109375
+            ],
+            "m_LocalRotation": [
+                90.0,
+                89.78784942626953,
+                96.7677993774414
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TerritoryFlagKit",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.4102897644043,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                -82.07147216796875,
+                90.0,
+                82.07147216796875
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.38881301879883,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                7.909534454345703,
+                -90.0,
+                -172.09519958496095
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.38881301879883,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                7.909534454345703,
+                -90.0,
+                -172.09519958496095
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                5047.82421875,
+                38.4102897644043,
+                3745.54443359375
+            ],
+            "m_LocalRotation": [
+                -82.07147216796875,
+                90.0,
+                82.07147216796875
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5057.7685546875,
+                37.771697998046878,
+                3754.611083984375
+            ],
+            "m_LocalRotation": [
+                -163.33177185058595,
+                -0.0019835021812468769,
+                0.0014766207896173
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                5057.08642578125,
+                37.781734466552737,
+                3752.6953125
+            ],
+            "m_LocalRotation": [
+                -163.07359313964845,
+                -0.00025733959046192467,
+                0.0017294978024438024
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TerritoryFlagKit",
+            "m_LocalPosition": [
+                5048.75048828125,
+                37.89035415649414,
+                3746.45654296875
+            ],
+            "m_LocalRotation": [
+                -90.0,
+                -89.78784942626953,
+                -128.4368438720703
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Flag_DayZ",
+            "m_LocalPosition": [
+                5049.40087890625,
+                37.792728424072269,
+                3743.432373046875
+            ],
+            "m_LocalRotation": [
+                -67.03368377685547,
+                -0.26954296231269839,
+                0.12818588316440583
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

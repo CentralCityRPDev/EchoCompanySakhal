@@ -1,0 +1,205 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "TTsKOJacket_Camo",
+            "m_LocalPosition": [
+                2240.873046875,
+                18.44537353515625,
+                4006.885009765625
+            ],
+            "m_LocalRotation": [
+                -14.78804874420166,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 89.74113464355469,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Ammo_45ACP",
+                    "m_Data": {
+                        "m_Health": 62.732418060302737,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Ammo_545x39",
+            "m_LocalPosition": [
+                2231.723876953125,
+                17.968116760253908,
+                4005.695556640625
+            ],
+            "m_LocalRotation": [
+                -3.0433053970336916,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 65.89468383789063,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                2236.611083984375,
+                18.22574806213379,
+                4005.53857421875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 51.356971740722659,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_9x39",
+            "m_LocalPosition": [
+                2178.043212890625,
+                12.949543952941895,
+                3851.75
+            ],
+            "m_LocalRotation": [
+                -65.7598876953125,
+                -14.312093734741211,
+                -1.8899070024490357
+            ],
+            "m_Data": {
+                "m_Health": 69.9000015258789,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Military_Sweater_Black",
+            "m_LocalPosition": [
+                2263.69482421875,
+                46.50356674194336,
+                3938.207763671875
+            ],
+            "m_LocalRotation": [
+                -82.86139678955078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 93.04341888427735,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PilotkaCap",
+            "m_LocalPosition": [
+                2173.247802734375,
+                12.737638473510743,
+                3844.748779296875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 58.834190368652347,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "JungleBoots_Olive",
+            "m_LocalPosition": [
+                2176.427490234375,
+                12.878765106201172,
+                3855.154052734375
+            ],
+            "m_LocalRotation": [
+                173.39151000976563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 173.21449279785157,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M65Jacket_Khaki",
+            "m_LocalPosition": [
+                2162.41552734375,
+                12.767324447631836,
+                3868.48486328125
+            ],
+            "m_LocalRotation": [
+                -139.91514587402345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 34.804054260253909,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AK74_30Rnd",
+            "m_LocalPosition": [
+                2171.505859375,
+                13.221475601196289,
+                3842.754150390625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 56.93875503540039,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,3050 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4562.8515625,
+                39.37558364868164,
+                4236.26708984375
+            ],
+            "m_LocalRotation": [
+                69.22124481201172,
+                3.4173333644866945,
+                -1.2956836223602296
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4560.67724609375,
+                40.057132720947269,
+                4237.6513671875
+            ],
+            "m_LocalRotation": [
+                -80.5373764038086,
+                86.29540252685547,
+                -27.426685333251954
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                4555.71875,
+                38.797359466552737,
+                4236.044921875
+            ],
+            "m_LocalRotation": [
+                -85.67375946044922,
+                -8.538664817810059,
+                1.6022552251815797
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 81.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WatchtowerKit",
+            "m_LocalPosition": [
+                4562.0126953125,
+                40.20066452026367,
+                4233.68994140625
+            ],
+            "m_LocalRotation": [
+                79.38075256347656,
+                -87.51658630371094,
+                100.60951232910156
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4562.22314453125,
+                40.157711029052737,
+                4236.05419921875
+            ],
+            "m_LocalRotation": [
+                -90.0,
+                86.34542083740235,
+                0.000005008955668017734
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4562.04931640625,
+                40.155399322509769,
+                4233.00146484375
+            ],
+            "m_LocalRotation": [
+                79.38075256347656,
+                -87.51658630371094,
+                -99.10783386230469
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4562.22314453125,
+                40.136234283447269,
+                4236.05419921875
+            ],
+            "m_LocalRotation": [
+                90.0,
+                -86.34542083740235,
+                -109.71733093261719
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Rope",
+            "m_LocalPosition": [
+                4558.10302734375,
+                38.99074935913086,
+                4237.69970703125
+            ],
+            "m_LocalRotation": [
+                -63.61268997192383,
+                -6.422943115234375,
+                0.019858343526721
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4558.10302734375,
+                38.99074935913086,
+                4237.69970703125
+            ],
+            "m_LocalRotation": [
+                -63.61268997192383,
+                -6.422943115234375,
+                0.019858343526721
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                4556.72509765625,
+                39.12659454345703,
+                4232.68310546875
+            ],
+            "m_LocalRotation": [
+                -48.01284408569336,
+                85.90628051757813,
+                -111.52056121826172
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4562.2255859375,
+                39.37510299682617,
+                4236.05419921875
+            ],
+            "m_LocalRotation": [
+                90.0,
+                -86.33798217773438,
+                54.98000717163086
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4556.5751953125,
+                38.99299621582031,
+                4234.681640625
+            ],
+            "m_LocalRotation": [
+                115.82139587402344,
+                -84.75289154052735,
+                -101.21379089355469
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4562.0498046875,
+                39.415164947509769,
+                4233.00146484375
+            ],
+            "m_LocalRotation": [
+                -100.6192398071289,
+                87.51414489746094,
+                -78.33952331542969
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4621.08349609375,
+                53.24066925048828,
+                4108.0537109375
+            ],
+            "m_LocalRotation": [
+                -63.755611419677737,
+                0.0009147231467068195,
+                -0.0003106066433247179
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "WatchtowerKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "FenceKit",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Rope",
+                            "m_Data": {
+                                "m_Health": 200.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4625.83203125,
+                53.24066925048828,
+                4106.62109375
+            ],
+            "m_LocalRotation": [
+                69.25989532470703,
+                0.0007256284588947892,
+                0.0019162633689120412
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Vikhr_30Rnd",
+            "m_LocalPosition": [
+                5542.8037109375,
+                3.3770458698272707,
+                3964.568115234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 82.62325286865235,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4623.65771484375,
+                54.04151916503906,
+                4108.00537109375
+            ],
+            "m_LocalRotation": [
+                -53.130104064941409,
+                -89.97201538085938,
+                53.130104064941409
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "WatchtowerKit",
+            "m_LocalPosition": [
+                4624.9931640625,
+                54.082847595214847,
+                4104.0439453125
+            ],
+            "m_LocalRotation": [
+                180.0,
+                -89.97201538085938,
+                -144.40023803710938
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                4618.69921875,
+                55.75701904296875,
+                4106.39892578125
+            ],
+            "m_LocalRotation": [
+                -85.71853637695313,
+                0.002655780641362071,
+                -0.004849773366004229
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 81.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4625.20361328125,
+                54.06299591064453,
+                4106.408203125
+            ],
+            "m_LocalRotation": [
+                -90.0,
+                89.97201538085938,
+                -90.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4560.67724609375,
+                40.0571403503418,
+                4237.6513671875
+            ],
+            "m_LocalRotation": [
+                -80.5373764038086,
+                86.29540252685547,
+                119.16053771972656
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4560.6767578125,
+                39.29593276977539,
+                4237.65185546875
+            ],
+            "m_LocalRotation": [
+                -80.5373764038086,
+                86.28764343261719,
+                -94.20230865478516
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "WatchtowerKit",
+            "m_LocalPosition": [
+                4553.6748046875,
+                38.664546966552737,
+                4235.63525390625
+            ],
+            "m_LocalRotation": [
+                -53.806846618652347,
+                82.35370635986328,
+                -176.34292602539063
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4558.54638671875,
+                39.09313201904297,
+                4237.1748046875
+            ],
+            "m_LocalRotation": [
+                101.8883285522461,
+                -84.08770751953125,
+                114.55545043945313
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4619.12158203125,
+                53.24066925048828,
+                4101.5322265625
+            ],
+            "m_LocalRotation": [
+                -49.69266128540039,
+                0.0001499840582255274,
+                0.00035116361686959863
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Shovel",
+                    "m_Data": {
+                        "m_Health": 164.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatKnife",
+                    "m_Data": {
+                        "m_Health": 142.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Hammer",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Hammer",
+                    "m_Data": {
+                        "m_Health": 44.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Pliers",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Flag_BrainZ",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Hammer",
+                    "m_Data": {
+                        "m_Health": 36.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Pliers",
+                    "m_Data": {
+                        "m_Health": 84.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Hatchet",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PetrolLighter",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 19.5,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SeaChest",
+            "m_LocalPosition": [
+                4623.708984375,
+                53.24066925048828,
+                4100.2333984375
+            ],
+            "m_LocalRotation": [
+                14.249698638916016,
+                -0.0018283672397956253,
+                0.0016497529577463866
+            ],
+            "m_Data": {
+                "m_Health": 600.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "PetrolLighter",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4625.02978515625,
+                53.24049758911133,
+                4103.35546875
+            ],
+            "m_LocalRotation": [
+                -19.717336654663087,
+                -89.96572875976563,
+                -0.4541802406311035
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4625.20361328125,
+                53.24049758911133,
+                4106.408203125
+            ],
+            "m_LocalRotation": [
+                -19.717336654663087,
+                -89.96572875976563,
+                -82.0081787109375
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "FenceKit",
+            "m_LocalPosition": [
+                4623.65771484375,
+                53.2619743347168,
+                4108.00537109375
+            ],
+            "m_LocalRotation": [
+                160.28265380859376,
+                89.96572875976563,
+                -57.176361083984378
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "BarrelHoles_Red",
+            "m_LocalPosition": [
+                4616.3544921875,
+                53.23030090332031,
+                4105.86767578125
+            ],
+            "m_LocalRotation": [
+                -36.739402770996097,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 900.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 500
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Firewood",
+                    "m_Data": {
+                        "m_Health": 147.50003051757813,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4555.556640625,
+                40.240814208984378,
+                4235.05029296875
+            ],
+            "m_LocalRotation": [
+                -70.09518432617188,
+                38.67864227294922,
+                -16.14815330505371
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 63.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4557.697265625,
+                38.957550048828128,
+                4238.2568359375
+            ],
+            "m_LocalRotation": [
+                -38.064414978027347,
+                -5.807962417602539,
+                -2.747370481491089
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4561.13818359375,
+                39.28651428222656,
+                4238.95556640625
+            ],
+            "m_LocalRotation": [
+                19.534814834594728,
+                0.6487544775009155,
+                -3.6473379135131838
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Watchtower",
+            "m_LocalPosition": [
+                4553.6748046875,
+                38.58261489868164,
+                4235.63525390625
+            ],
+            "m_LocalRotation": [
+                -71.84999084472656,
+                -7.2743330001831059,
+                2.361931800842285
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "level_2_wall_1_wood_up",
+                "level_1_wall_1_base_down",
+                "level_1_roof",
+                "level_2_wall_3_wood_down",
+                "level_1_wall_1_base_up",
+                "level_1_wall_1_wood_up",
+                "level_2_wall_1_wood_down",
+                "level_2_wall_2_base_down",
+                "level_2_stairs",
+                "level_2_wall_2_wood_up",
+                "level_1_wall_3_wood_down",
+                "level_1_stairs",
+                "level_1_wall_1_wood_down",
+                "level_1_wall_2_base_down",
+                "level_2_base",
+                "level_2_wall_3_base_up",
+                "level_2_wall_3_wood_up",
+                "level_1_wall_3_base_up",
+                "level_2_wall_2_wood_down",
+                "level_1_wall_3_wood_up",
+                "level_2_roof",
+                "level_2_wall_3_base_down",
+                "level_2_wall_2_base_up",
+                "level_2_wall_1_base_down",
+                "level_1_base",
+                "level_1_wall_2_wood_down",
+                "level_1_wall_2_base_up",
+                "level_1_wall_2_wood_up",
+                "level_1_wall_3_base_down",
+                "level_2_wall_1_base_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 17.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 70.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 19.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4563.5625,
+                39.45719909667969,
+                4236.3994140625
+            ],
+            "m_LocalRotation": [
+                75.58146667480469,
+                3.539638042449951,
+                -0.9093893766403198
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 14.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4624.11865234375,
+                53.27678298950195,
+                4109.3095703125
+            ],
+            "m_LocalRotation": [
+                19.53605842590332,
+                0.00018689435091800988,
+                0.001515791518613696
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Watchtower",
+            "m_LocalPosition": [
+                4616.6552734375,
+                53.292572021484378,
+                4105.9892578125
+            ],
+            "m_LocalRotation": [
+                -71.94336700439453,
+                -0.003483586246147752,
+                -0.000058002417063107717
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "level_2_wall_1_wood_up",
+                "level_1_wall_1_base_down",
+                "level_1_roof",
+                "level_2_wall_3_wood_down",
+                "level_1_wall_1_base_up",
+                "level_1_wall_1_wood_up",
+                "level_2_wall_1_wood_down",
+                "level_2_wall_2_base_down",
+                "level_2_stairs",
+                "level_2_wall_2_wood_up",
+                "level_1_wall_3_wood_down",
+                "level_1_stairs",
+                "level_1_wall_1_wood_down",
+                "level_1_wall_2_base_down",
+                "level_2_base",
+                "level_2_wall_3_base_up",
+                "level_2_wall_3_wood_up",
+                "level_1_wall_3_base_up",
+                "level_2_wall_2_wood_down",
+                "level_1_wall_3_wood_up",
+                "level_2_roof",
+                "level_2_wall_3_base_down",
+                "level_2_wall_2_base_up",
+                "level_2_wall_1_base_down",
+                "level_1_base",
+                "level_1_wall_2_wood_down",
+                "level_1_wall_2_base_up",
+                "level_1_wall_2_wood_up",
+                "level_1_wall_3_base_down",
+                "level_2_wall_1_base_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 17.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 70.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 19.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4620.677734375,
+                53.27678298950195,
+                4108.61083984375
+            ],
+            "m_LocalRotation": [
+                -38.347843170166019,
+                0.0023426141124218704,
+                0.0007594481576234102
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4618.2421875,
+                53.27678298950195,
+                4101.5390625
+            ],
+            "m_LocalRotation": [
+                -99.03227996826172,
+                -0.0007901468779891729,
+                -0.0006200148491188884
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4626.33740234375,
+                53.27678298950195,
+                4102.9052734375
+            ],
+            "m_LocalRotation": [
+                109.06574249267578,
+                -0.002048003487288952,
+                -0.00034652004251256585
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4624.12939453125,
+                53.27678298950195,
+                4099.7724609375
+            ],
+            "m_LocalRotation": [
+                141.7879638671875,
+                -0.0004966679844073951,
+                0.0021295638289302589
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_platform_stairs_right",
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4626.54296875,
+                53.27678298950195,
+                4106.75341796875
+            ],
+            "m_LocalRotation": [
+                75.60956573486328,
+                0.0013231730554252864,
+                -0.0003394974337425083
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_base_up",
+                "wall_wood_up",
+                "wall_platform",
+                "wall_platform_stairs_left"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 14.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4618.537109375,
+                53.27678298950195,
+                4105.404296875
+            ],
+            "m_LocalRotation": [
+                -72.52002716064453,
+                0.0016619731904938818,
+                -0.0007297612610273063
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 63.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                4620.546875,
+                53.27678298950195,
+                4099.05810546875
+            ],
+            "m_LocalRotation": [
+                -167.01898193359376,
+                -0.002789726946502924,
+                0.0014596916735172272
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wall_base_down",
+                "wall_wood_down",
+                "base",
+                "wall_gate",
+                "wall_base_up",
+                "wall_wood_up"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenLog",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 99.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BarbedWire",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalWire",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CodeLock",
+                    "m_Data": {
+                        "m_Health": 1500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CamoNet",
+                    "m_Data": {
+                        "m_Health": 120.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MetalPlate",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

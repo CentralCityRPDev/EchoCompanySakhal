@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "LargeTent",
+            "m_LocalPosition": [
+                4628.86474609375,
+                53.24067306518555,
+                4103.38916015625
+            ],
+            "m_LocalRotation": [
+                102.73628997802735,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 2000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

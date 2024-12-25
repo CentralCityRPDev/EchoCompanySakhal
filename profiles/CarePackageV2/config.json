@@ -1,0 +1,388 @@
+
+{
+    "Locations": [
+        {
+            "Name": "Nogovo",
+            "Location": [
+                
+                7839,
+                7837
+                
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Bolotnoe",
+            "Location": [
+                4922,
+                8725
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Vysokoe",
+            "Location": [
+                11079,
+                7950
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Petropavlovosk",
+            "Location": [
+                5743,
+                11170
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Rudnogorsk",
+            "Location": [
+                14053,
+                11893
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Sumnoe",
+            "Location": [
+                14445,
+                8820
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        }
+    ],
+
+    "Packages": [
+        {
+            "Package_name": "Care Package 1 - SURVIVAL KIT",
+            "object_type": "CarePackage_typhon",
+            "parachute_type": "ArmyParachute_typhon",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 5,
+            "MaxMiscItems": 5,
+            "AllowedPackageIDs": [
+                1
+            ],
+            "Items": [
+                {
+                    "Item": "AKM",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "Mag_AKM_Palm30Rnd",
+                        "AK_WoodHndgrd",
+                        "AK_woodBttStck",
+                        "KobraOptic"]
+                },
+                {
+                    "Item": "FAL",
+                    "Attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_FoldingBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "Item": "SVD",
+                    "Attachments": [
+                        "Mag_SVD_10rnd",
+                        "PSO1Optic"
+                    ]
+                },
+                {
+                    "Item": "M4A1",
+                    "Attachments": [
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "Mag_CMAG_30Rnd",
+                        "BUISOptic"
+                    ]
+                },
+                {
+                    "Item": "SKS",
+                    "Attachments": [
+                        "PUScopeOptic"
+                    ]
+                },
+                {
+                    "Item": "UMP45",
+                    "Attachments": [
+                        "UniversalLight",
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "Item": "CZ527",
+                    "Attachments": [
+                        "HuntingOptic",
+                        "Mag_CZ527_5rnd"
+                    ]
+                },
+                {
+                    "Item": "Mag_AKM_Drum75rnd",
+                    "MinQty": 60,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Canteen",
+                    "MinQty": 10000,
+                    "MaxQty": 10000,
+                    "Attachments": []
+                },
+
+                {
+                    "Item": "Rice",
+                    "MinQty": 1000,
+                    "MaxQty": 1000,
+                    "Attachments": []
+                },
+                {
+                    "Item": "PeachesCan",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NailBox",
+                    "MinQty": 1,
+                    "MaxQty": 3,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BarbedWire",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "SledgeHammer",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Epinephrine",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Morphine",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NBCBootsGray",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NBCGlovesGray",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NBCHoodGray",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NBCJacketGray",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "NBCPantsGray",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "SalineBagIV",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "LeatherSewingKit",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "SewingKit",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "ElectronicRepairKit",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "WeaponCleaningKit",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Rangefinder",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "Battery9V"
+                    ]
+                },
+                {
+                    "Item": "MetalPlate",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "ChernarusMap",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BakedBeansCan",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GorkaHelmet",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Mich2001Helmet",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieHood_Winter",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieSuit_Winter",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+
+                {
+                    "Item": "Battery9V", 
+                    "MinQty": 100,
+                    "MaxQty": 100,
+                    "Attachments": []
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": ["PlateCarrierHolster",
+                                    "PlateCarrierPouches"]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": ["PlateCarrierHolster",
+                                    "PlateCarrierPouches"]
+                },
+                {
+                    "Item": "BandageDressing",
+                    
+                    "MinQty": 80,
+                    "MaxQty": 100,
+                    "Attachments": []
+                    },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "MinQty": 4,
+                    "MaxQty": 10,
+                    "Attachments": []
+                    },
+                    {
+                    "Item": "VitaminBottle",
+                    "MinQty": 10,
+                    "MaxQty": 25,
+                    "Attachments": []
+                    }, 
+                    {
+                    "Item": "CharcoalTablets",
+                    "MinQty": 1,
+                    "MaxQty": 10,
+                    "Attachments": []
+                    
+                    }
+            ],
+
+            "Weapons":[]
+                }
+    ],
+
+
+"InfectedTypes": [
+"InfectedSoldierHardJMC",
+"ZmbF_ParamedicNormal_Blue",
+"ZmbF_ParamedicNormal_Green",
+"ZmbM_CitizenASkinny_Blue",
+"ZmbM_CitizenASkinny_Brown",
+"ZmbM_CitizenASkinny_Grey",
+"ZmbM_MotobikerFat_Beige",
+"ZmbM_MotobikerFat_Black",
+"ZmbM_MotobikerFat_Blue"
+   ],
+
+"LootSpawnType": 1,
+"MinutesBetweenPackages": 120,
+"DropHeight": 150,
+"DropTime": 15,
+"MinimumPlayers": 10,
+"PackagesBeingRan": 1,
+"PackageCallDelay": 30,
+"MinutesAway": 5,
+"ZombiesToSpawn": 15,
+"LocationHistoryCheckRange": 3,
+"LockPackages": true,
+"Title": "Care Package",
+"DroppedMessage": "An Echo Company Care Package has been deployed.",
+"StartMessage": "A care package is on its way to ",
+"MinutesAwayPrefix": "The care package is ",
+"MinutesAwaySuffix": " minutes away from "
+}

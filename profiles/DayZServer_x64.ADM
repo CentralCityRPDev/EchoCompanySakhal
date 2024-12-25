@@ -1,0 +1,31 @@
+
+
+******************************************************************************
+AdminLog started on 2024-12-24 at 21:00:11
+21:00:38 | Player "brysonZ28"(id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg=) is connected
+21:02:09 | Player "Daryl Dixon"(id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU=) is connected
+21:08:42 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5772.6, 12254.5, 26.0>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:11:58 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5725.6, 12342.3, 27.7>)[HP: 99.545] hit by Infected into LeftArm(18) for 4.55 damage (MeleeInfected)
+21:11:59 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5724.8, 12343, 27.8>)[HP: 99.545] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:12:22 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5682.3, 12293.9, 25.5>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:12:47 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5685.2, 12289.5, 25.5>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:12:48 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5684.1, 12291.8, 25.5>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+21:14:08 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5724.2, 12291.7, 25.7>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:18:10 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13936.1, 8363.1, 6.4>)[HP: 76.3977] hit by Infected into Torso(1) for 7.65 damage (MeleeInfectedLong)
+21:18:13 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13939.6, 8361.0, 6.2>)[HP: 76.4877] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+21:18:20 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13935.8, 8363.2, 6.4>)[HP: 76.6677] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:18:21 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13933.9, 8364.7, 6.4>)[HP: 76.6677] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:18:26 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13930.3, 8367.8, 6.5>)[HP: 76.8477] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:18:33 | Player "brysonZ28" (id=k21bpqog_u_F8a7bSb93ilkuH9ymdt--hB3ahmvPDsg= pos=<13924, 8373.0, 6.6>)[HP: 77.0277] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+21:19:44 | Player "Big_Steve"(id=5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) is connected
+21:20:35 | [emote] SurvivorF_Naomi:3:INSTANCETYPE_SERVER play emote id=14 IH=SKS:4947
+21:23:10 | [emote] SurvivorF_Naomi:3:INSTANCETYPE_SERVER play emote id=14 IH=SKS:4947
+21:23:26 | Player "Big_Steve"(id=5WGRy-CnNBWkwUn9Y0EzIZk9QErbSlUuQBSedgSEh50=) has been disconnected
+21:23:32 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5758.8, 12263.7, 25.4>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:23:34 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5755.9, 12265.1, 25.3>)[HP: 95.45] hit by Infected into Torso(1) for 4.55 damage (MeleeInfected)
+21:23:37 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5755.9, 12264.3, 25.3>)[HP: 95.5288] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:23:40 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5755.9, 12261.6, 25.3>)[HP: 95.0126] hit by Infected into RightArm(17) for 5.95 damage (MeleeInfectedLong)
+21:23:43 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5757.3, 12259.1, 25.3>)[HP: 95.0915] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:23:48 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5760.7, 12256.7, 25.5>)[HP: 95.2493] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+21:27:14 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5782.2, 12260.1, 26.4>)[HP: 98.5375] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:27:21 | Player "Daryl Dixon" (id=rRBxneuEXXF4JV1FHTa5pwvIX85I4JOUhtPlkJn8JYU= pos=<5758.5, 12233.4, 25.1>)[HP: 98.7799] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)

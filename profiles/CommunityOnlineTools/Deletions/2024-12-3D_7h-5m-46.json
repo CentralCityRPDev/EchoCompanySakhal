@@ -1,0 +1,1072 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "SV98",
+            "m_LocalPosition": [
+                4619.52587890625,
+                53.2482795715332,
+                4097.54931640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 250.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_SV98_10Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "ACOGOptic",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "AK74_Green",
+            "m_LocalPosition": [
+                4620.3564453125,
+                53.261112213134769,
+                4098.4111328125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 250.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "AK74_WoodBttstck",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "AK74_Hndgrd",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PSO1Optic",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "AK_Bayonet",
+                    "m_Data": {
+                        "m_Health": 150.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_AK74_30Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "CZ527_Green",
+            "m_LocalPosition": [
+                4612.25,
+                53.248207092285159,
+                4099.88818359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_CZ527_5rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HuntingOptic",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "MilitaryBoots_Beige",
+            "m_LocalPosition": [
+                4597.00146484375,
+                53.33917999267578,
+                4101.10205078125
+            ],
+            "m_LocalRotation": [
+                43.6170539855957,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 32.400001525878909,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TaloonBag_Violet",
+            "m_LocalPosition": [
+                4613.310546875,
+                53.304508209228519,
+                4097.9453125
+            ],
+            "m_LocalRotation": [
+                -33.87379837036133,
+                -89.98020935058594,
+                39.88811111450195
+            ],
+            "m_Data": {
+                "m_Health": 110.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GPSReceiver",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TaloonBag_Violet",
+            "m_LocalPosition": [
+                4613.310546875,
+                53.304508209228519,
+                4097.9453125
+            ],
+            "m_LocalRotation": [
+                -33.87379837036133,
+                -89.98020935058594,
+                39.88811111450195
+            ],
+            "m_Data": {
+                "m_Health": 110.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 3
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GPSReceiver",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TacticalGloves_Green",
+            "m_LocalPosition": [
+                4619.56298828125,
+                53.23194885253906,
+                4097.52978515625
+            ],
+            "m_LocalRotation": [
+                82.33402252197266,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 165.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AnniversaryBox",
+            "m_LocalPosition": [
+                4620.13037109375,
+                53.24066925048828,
+                4101.14697265625
+            ],
+            "m_LocalRotation": [
+                178.66510009765626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TortillaBag",
+            "m_LocalPosition": [
+                4613.9814453125,
+                53.35294723510742,
+                4100.5546875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 180.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GPSReceiver",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TacticalGloves_Black",
+            "m_LocalPosition": [
+                4619.58740234375,
+                53.23194885253906,
+                4097.17724609375
+            ],
+            "m_LocalRotation": [
+                133.3890838623047,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 165.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Offroad_02",
+            "m_LocalPosition": [
+                4616.6591796875,
+                53.255802154541019,
+                4095.92041015625
+            ],
+            "m_LocalRotation": [
+                0.0008054221980273724,
+                0.08504053950309754,
+                0.012156391516327858
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_1_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_1",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Door_2_2",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Hood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Trunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GlowPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Offroad_02_Wheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "OffroadHatchback",
+            "m_LocalPosition": [
+                4613.13818359375,
+                53.26832962036133,
+                4100.3125
+            ],
+            "m_LocalRotation": [
+                -0.00891849584877491,
+                -0.5425609946250916,
+                -0.003993417602032423
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarRadiator",
+                    "m_Data": {
+                        "m_Health": 250.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "SparkPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackDoors_Driver",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackDoors_CoDriver",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackHood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackTrunk",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HeadlightH7",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarBattery",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 50.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CarRadiator",
+                    "m_Data": {
+                        "m_Health": 250.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "SparkPlug",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Wrench",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "LugWrench",
+                    "m_Data": {
+                        "m_Health": 400.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Screwdriver",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "EpoxyPutty",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 100.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 8192,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CanisterGasoline",
+                    "m_Data": {
+                        "m_Health": 300.0,
+                        "m_Quantity": 20000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Blowtorch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "LargeGasCanister",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 20.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "HatchbackWheel",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SkiGloves_90s",
+            "m_LocalPosition": [
+                4613.84912109375,
+                53.279483795166019,
+                4100.52001953125
+            ],
+            "m_LocalRotation": [
+                37.546913146972659,
+                0.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 120.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoolGloves_Green",
+            "m_LocalPosition": [
+                4614.3369140625,
+                53.22797775268555,
+                4101.2646484375
+            ],
+            "m_LocalRotation": [
+                38.62913131713867,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 110.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

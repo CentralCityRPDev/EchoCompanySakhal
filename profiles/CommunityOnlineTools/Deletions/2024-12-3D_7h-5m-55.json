@@ -1,0 +1,288 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "AnniversaryBox",
+            "m_LocalPosition": [
+                4621.6259765625,
+                53.240665435791019,
+                4106.40283203125
+            ],
+            "m_LocalRotation": [
+                44.81460189819336,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AnniversaryBox",
+            "m_LocalPosition": [
+                4620.28955078125,
+                53.24066925048828,
+                4103.97265625
+            ],
+            "m_LocalRotation": [
+                -79.10397338867188,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GhillieSuit_Winter",
+            "m_LocalPosition": [
+                4624.0712890625,
+                53.392879486083987,
+                4102.8330078125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HuntingBag",
+            "m_LocalPosition": [
+                4624.96875,
+                53.32316207885742,
+                4101.35791015625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 160.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GPSReceiver",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TestObject",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SodaCan_Fronta",
+            "m_LocalPosition": [
+                4623.0029296875,
+                53.28974914550781,
+                4105.33984375
+            ],
+            "m_LocalRotation": [
+                161.47097778320313,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 330.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZagorkyChocolate",
+            "m_LocalPosition": [
+                4621.65478515625,
+                53.24144744873047,
+                4104.78662109375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Crackers",
+            "m_LocalPosition": [
+                4621.36328125,
+                53.24357604980469,
+                4100.296875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 50.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -5
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BearTrap",
+            "m_LocalPosition": [
+                4620.28857421875,
+                53.227569580078128,
+                4102.95654296875
+            ],
+            "m_LocalRotation": [
+                -129.5437469482422,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BearTrap",
+            "m_LocalPosition": [
+                4624.21044921875,
+                53.227569580078128,
+                4105.48486328125
+            ],
+            "m_LocalRotation": [
+                -119.63377380371094,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LargeTent",
+            "m_LocalPosition": [
+                4626.28662109375,
+                53.24067687988281,
+                4106.03271484375
+            ],
+            "m_LocalRotation": [
+                23.7202205657959,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 2000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BearTrap",
+            "m_LocalPosition": [
+                4623.13623046875,
+                53.227569580078128,
+                4104.57763671875
+            ],
+            "m_LocalRotation": [
+                62.84370040893555,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LargeTent",
+            "m_LocalPosition": [
+                4626.416015625,
+                53.20201873779297,
+                4102.75
+            ],
+            "m_LocalRotation": [
+                -111.68096160888672,
+                0.001498492667451501,
+                -0.0053223902359604839
+            ],
+            "m_Data": {
+                "m_Health": 2000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}
